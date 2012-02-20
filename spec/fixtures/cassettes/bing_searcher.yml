@@ -2,7 +2,7 @@
 http_interactions:
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22David%20Beckham%22%20football&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22David%20Beckham%22%20football&sources=Web
     body: ''
     headers: {}
   response:
@@ -17,7 +17,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:56 GMT
+      - Mon, 20 Feb 2012 17:01:30 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
@@ -58,10 +58,10 @@ http_interactions:
       for Los Angeles Galaxy in Major League Soccer, having ... David Beckham Beach
       Football","Url":"http:\/\/celebrityandcelebrity.blogspot.com\/2011\/07\/david-beckham-english-football-player.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4831851548641720&w=b77e281c,e6a93cd8","DisplayUrl":"celebrityandcelebrity.blogspot.com\/2011\/07\/david-beckham-english...","DateTime":"2012-02-02T02:35:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:56 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:30 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22David%20Beckham%22%20basketball&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22David%20Beckham%22%20basketball&sources=Web
     body: ''
     headers: {}
   response:
@@ -76,7 +76,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:57 GMT
+      - Mon, 20 Feb 2012 17:01:30 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
@@ -120,10 +120,10 @@ http_interactions:
       waves during the closing ceremony for the 2008 Beijing Olympics AP David Beckham
       watches the men’s gold medal basketball game between the USA and ...","Url":"http:\/\/www.accesshollywood.com\/david-beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4708190865458047&w=df90421f,681ca1d5","DisplayUrl":"www.accesshollywood.com\/david-beckham","DateTime":"2012-02-17T23:03:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:57 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:30 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22David%20Beckham%22%20quidditch&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22David%20Beckham%22%20quidditch&sources=Web
     body: ''
     headers: {}
   response:
@@ -138,7 +138,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:57 GMT
+      - Mon, 20 Feb 2012 17:01:31 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
@@ -189,10 +189,10 @@ http_interactions:
       and the SAS is outshone by Quidditch ... In terms of Britain''s worldwide pulling
       power, David Beckham is worth 50 Trident missiles. He is our ...","Url":"http:\/\/www.guardian.co.uk\/commentisfree\/2008\/dec\/11\/british-culture-english-language-quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4541692166210958&w=a1460d18,bc7e135f","DisplayUrl":"www.guardian.co.uk\/...\/11\/british-culture-english-language-quidditch","DateTime":"2012-02-15T22:31:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:57 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:31 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Harry%20Potter%22%20football&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Harry%20Potter%22%20football&sources=Web
     body: ''
     headers: {}
   response:
@@ -207,7 +207,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:58 GMT
+      - Mon, 20 Feb 2012 17:01:31 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
@@ -258,10 +258,10 @@ http_interactions:
       Creed: Brotherhood PS minis Mighty Flip Champs! DX PSN Demos Catherine Dead
       Nation PixelJunk ...","Url":"http:\/\/www.examiner.com\/console-gaming-in-national\/games-launching-this-week-harry-potter-ncaa-football-12","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4955795714475859&w=9c72aa19,27b83db0","DisplayUrl":"www.examiner.com\/console-gaming-in-national\/games-launching-this...","DateTime":"2012-01-02T16:51:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:58 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:31 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Harry%20Potter%22%20basketball&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Harry%20Potter%22%20basketball&sources=Web
     body: ''
     headers: {}
   response:
@@ -276,7 +276,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:58 GMT
+      - Mon, 20 Feb 2012 17:01:31 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
@@ -326,10 +326,10 @@ http_interactions:
       NASCAR Party NFL Party Zone Soccer Party ... Harry Potter \"A Magical World\"
       party supplies Harry Potter TM & Warner Bros. Entertainment Inc.","Url":"http:\/\/www.partystore.com\/catalog\/Harry_Potter-20-1.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4772842997942181&w=1fd5b8ec,a81efcf4","DisplayUrl":"www.partystore.com\/catalog\/Harry_Potter-20-1.html","DateTime":"2012-02-08T22:41:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:58 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:31 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Harry%20Potter%22%20quidditch&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Harry%20Potter%22%20quidditch&sources=Web
     body: ''
     headers: {}
   response:
@@ -344,7 +344,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:59 GMT
+      - Mon, 20 Feb 2012 17:01:31 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
@@ -385,10 +385,10 @@ http_interactions:
       are FREE to play and we launch new games every day. You can play thousands of
       free online games including action, life ...","Url":"http:\/\/www.flonga.com\/play\/harry-potter-quidditch.htm","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4995511270507367&w=bd9cf2e5,bef0e0c0","DisplayUrl":"www.flonga.com\/play\/harry-potter-quidditch.htm","DateTime":"2012-02-12T01:47:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:59 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:31 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Jeremy%20Lin%22%20football&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Jeremy%20Lin%22%20football&sources=Web
     body: ''
     headers: {}
   response:
@@ -397,68 +397,68 @@ http_interactions:
       message: OK
     headers:
       Content-Length:
-      - '6875'
+      - '6874'
       Content-Type:
       - application/json; charset=utf-8
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:52:59 GMT
+      - Mon, 20 Feb 2012 17:01:32 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Jeremy Lin\"
-      football"},"Web":{"Total":1370000,"Offset":0,"Results":[{"Title":"Jeremy Lin
+      football"},"Web":{"Total":1360000,"Offset":0,"Results":[{"Title":"Jeremy Lin
       dominates flag football","Description":"Check out New York Knicks point guard
       Lin dominating at Harvard in some flag football. Is there anything that this
       guy can''t do? We''ll have to ask Chuck Norris that ... You might be fed up
-      of hearing about Jeremy Lin right about now. However, the ...","Url":"http:\/\/www.asternwarning.com\/201202091088\/articles\/nba\/jeremy-lin-dominates-flag-football.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4651475817268036&w=906013df,43d653f6","DisplayUrl":"www.asternwarning.com\/...\/nba\/jeremy-lin-dominates-flag-football.html","DateTime":"2012-02-14T08:23:00Z"},{"Title":"Is
+      of hearing about Jeremy Lin right about now. However, the ...","Url":"http:\/\/www.asternwarning.com\/201202091088\/articles\/nba\/jeremy-lin-dominates-flag-football.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4651475817268036&w=91038cc7,43d653f6","DisplayUrl":"www.asternwarning.com\/...\/nba\/jeremy-lin-dominates-flag-football.html","DateTime":"2012-02-14T08:23:00Z"},{"Title":"Is
       Victor Cruz the Jeremy Lin of Football and the NFL? Fan''s View - Yahoo!","Description":"Read
       ''Is Victor Cruz the Jeremy Lin of Football and the NFL? Fan''s View'' on Yahoo!.
       Living in the New York City area, two undrafted free agents have had huge impacts
       on local professional sports teams lately. Jeremy Lin is currently the hottest
-      ...","Url":"http:\/\/uk.news.yahoo.com\/victor-cruz-jeremy-lin-football-nfl-fans-view-142000287--nfl.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=5012317473670411&w=9475764d,4f868516","DisplayUrl":"uk.news.yahoo.com\/victor-cruz-jeremy-lin-football-nfl-fans-view...","DateTime":"2012-02-15T18:16:00Z"},{"Title":"Is
+      ...","Url":"http:\/\/uk.news.yahoo.com\/victor-cruz-jeremy-lin-football-nfl-fans-view-142000287--nfl.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=5012317473670411&w=36190684,4f868516","DisplayUrl":"uk.news.yahoo.com\/victor-cruz-jeremy-lin-football-nfl-fans-view...","DateTime":"2012-02-15T18:16:00Z"},{"Title":"Is
       Victor Cruz the Jeremy Lin of Football and the NFL? Fan''s View - NFL - Yahoo!
       Sports","Description":"Living in the New York City area, two undrafted free
       agents have had huge impacts on local professional sports teams lately. Jeremy
       Lin is currently the hottest sports topic in New York right now. Lin has led
       the New York Knicks to three straight wins, averaging 25.3 points and 8.3 assists
-      per game","Url":"http:\/\/sports.yahoo.com\/nfl\/news?slug=ycn-10948894","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4873023111892259&w=ec2dd7bf,1982864","DisplayUrl":"sports.yahoo.com\/nfl\/news?slug=ycn-10948894","DateTime":"2012-02-15T09:17:00Z"},{"Title":"D
+      per game","Url":"http:\/\/sports.yahoo.com\/nfl\/news?slug=ycn-10948894","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4873023111892259&w=7f2bc859,1982864","DisplayUrl":"sports.yahoo.com\/nfl\/news?slug=ycn-10948894","DateTime":"2012-02-15T09:17:00Z"},{"Title":"D
       Wizzle''s World: Jeremy Lin showing his skills on the football field","Description":"Who
       knew Jeremy Lin could play football as well? Perhaps he could have been a good
       WR with his speed and height. Check out these highlights of Jeremy in a flag
       football game at Harvard. Although it''s only flag football, I am still impressed
-      with his ...","Url":"http:\/\/dwizzlesworld.blogspot.com\/2012\/02\/jeremy-lin-showing-his-skills-on.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4724108002330549&w=af5590e7,8aeb9bcc","DisplayUrl":"dwizzlesworld.blogspot.com\/2012\/02\/jeremy-lin-showing-his-skills...","DateTime":"2012-02-18T02:58:00Z"},{"Title":"Video:
+      with his ...","Url":"http:\/\/dwizzlesworld.blogspot.com\/2012\/02\/jeremy-lin-showing-his-skills-on.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4724108002330549&w=55333275,8aeb9bcc","DisplayUrl":"dwizzlesworld.blogspot.com\/2012\/02\/jeremy-lin-showing-his-skills...","DateTime":"2012-02-18T02:58:00Z"},{"Title":"Video:
       Jeremy Lin''s talents extended to flag football at Harvard | Yardbarker.com","Description":"In
       case that whole NBA thing doesn''t work out, the Knicks'' Jeremy Lin always
       has a career in a flag football to look forward to. When the 6-foot-3 guard
-      wasn''t tearing up the Ivy League in basketball b","Url":"http:\/\/www.yardbarker.com\/nba\/articles\/msn\/jeremy_lins_talents_extended_to_flag_football_at_harvard_video\/9902788","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4762225844421094&w=a488747f,c803a4bb","DisplayUrl":"www.yardbarker.com\/nba\/articles\/msn\/jeremy_lins_talents_extended...","DateTime":"2012-02-17T05:42:00Z"},{"Title":"Jeremy
+      wasn''t tearing up the Ivy League in basketball b","Url":"http:\/\/www.yardbarker.com\/nba\/articles\/msn\/jeremy_lins_talents_extended_to_flag_football_at_harvard_video\/9902788","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4762225844421094&w=7a97e7d9,c803a4bb","DisplayUrl":"www.yardbarker.com\/nba\/articles\/msn\/jeremy_lins_talents_extended...","DateTime":"2012-02-17T05:42:00Z"},{"Title":"Jeremy
       Lin was also a flag football phenom at Harvard","Description":"Deadspin unearthed
       some video of Jeremy Lin playing flag football, back in 2009. It''s from the
       Harvard intramural flag football championship, between Winthrop House and Leverett
       House. Lin is a pass-catching machine, and he''s no stranger to the end zone.
-      And he even throws something what we''ll","Url":"http:\/\/content.usatoday.com\/communities\/gameon\/post\/2012\/02\/jeremy-lin-was-also-a-flag-football-phenom\/1","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4628278695167569&w=b763ad3d,c567035d","DisplayUrl":"content.usatoday.com\/...\/jeremy-lin-was-also-a-flag-football-phenom\/1","DateTime":"2012-02-17T18:09:00Z"},{"Title":"Twitter
+      And he even throws something what we''ll","Url":"http:\/\/content.usatoday.com\/communities\/gameon\/post\/2012\/02\/jeremy-lin-was-also-a-flag-football-phenom\/1","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4628278695167569&w=ef13b5cf,c567035d","DisplayUrl":"content.usatoday.com\/...\/jeremy-lin-was-also-a-flag-football-phenom\/1","DateTime":"2012-02-17T18:09:00Z"},{"Title":"Twitter
       \/ Eye on Football: If Jeremy Lin is the NBA''s ...","Description":"If Jeremy
       Lin is the NBA''s Tim Tebow, he''s about to run into the playoff version of
-      Tom Brady tonight in Kobe.","Url":"http:\/\/twitter.com\/EyeOnNFL\/status\/168040808807809024","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4547456010289658&w=46797018,c30e3c35","DisplayUrl":"twitter.com\/EyeOnNFL\/status\/168040808807809024","DateTime":"2012-02-14T06:47:00Z"},{"Title":"Jeremy
+      Tom Brady tonight in Kobe.","Url":"http:\/\/twitter.com\/EyeOnNFL\/status\/168040808807809024","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4547456010289658&w=45f398,c30e3c35","DisplayUrl":"twitter.com\/EyeOnNFL\/status\/168040808807809024","DateTime":"2012-02-14T06:47:00Z"},{"Title":"Jeremy
       Lin was also a flag football phenom - Sports News from USA Today","Description":"Deadspin
       unearthed some video of Jeremy Lin playing flag football, back in 2009. It’s
       from the Harvard intramural flag football championship, between Winthrop House
       and Leverett House. Lin is a pass-catching machine, and he’s no stranger to
-      the end zone. And he even throws something what we’ll","Url":"http:\/\/tucsoncitizen.com\/usa-today-sports\/2012\/02\/13\/jeremy-lin-was-also-a-flag-football-phenom\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=5031945483126971&w=879a17e8,8454dca6","DisplayUrl":"tucsoncitizen.com\/...\/02\/13\/jeremy-lin-was-also-a-flag-football-phenom","DateTime":"2012-02-16T14:16:00Z"},{"Title":"Fast
+      the end zone. And he even throws something what we’ll","Url":"http:\/\/tucsoncitizen.com\/usa-today-sports\/2012\/02\/13\/jeremy-lin-was-also-a-flag-football-phenom\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=5031945483126971&w=c568d35c,8454dca6","DisplayUrl":"tucsoncitizen.com\/...\/02\/13\/jeremy-lin-was-also-a-flag-football-phenom","DateTime":"2012-02-16T14:16:00Z"},{"Title":"Fast
       Pitch with Lauren Strec: Sports Illustrated Women, Mayweather’s Racist Tweet
       To Jeremy Lin, Football Coach Nude on Facebook - The Clubhouse ...","Description":"Fast
       Pitch with Lauren Strec: Sports Illustrated Women, Mayweather’s Racist Tweet
       To Jeremy Lin, Football Coach Nude on Facebook Lauren Strec pitches out previews
-      to articles that can be found at www.RantSports.com\/clubhouse. The 10 ...","Url":"http:\/\/www.rantsports.com\/clubhouse\/2012\/02\/14\/fast-pitch-with-lauren-strec-sports-illustrated-women-mayweathers-racist-tweet-to-jeremy-lin-football-coach-nude-on-facebook\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4800176173942816&w=22976e02,c54eb967","DisplayUrl":"www.rantsports.com\/clubhouse\/2012\/02\/14\/fast-pitch-with-lauren...","DateTime":"2012-02-16T04:46:00Z"},{"Title":"Jeremy
+      to articles that can be found at www.RantSports.com\/clubhouse. The 10 ...","Url":"http:\/\/www.rantsports.com\/clubhouse\/2012\/02\/14\/fast-pitch-with-lauren-strec-sports-illustrated-women-mayweathers-racist-tweet-to-jeremy-lin-football-coach-nude-on-facebook\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4800176173942816&w=8a0649cf,c54eb967","DisplayUrl":"www.rantsports.com\/clubhouse\/2012\/02\/14\/fast-pitch-with-lauren...","DateTime":"2012-02-16T04:46:00Z"},{"Title":"Jeremy
       Lin - New York Knicks - NBA - Yahoo! Sports","Description":"The latest stats,
       facts, news and notes on Jeremy Lin of the New York Knicks ... YAHOO! SPORTS
       NFL MLB NBA NHL Golf NASCAR Tennis More Yahoo! Sports » NCAA Football NCAA Basketball
-      NCAA Women''s Basketball World Soccer","Url":"http:\/\/sports.yahoo.com\/nba\/players\/4795","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4625345231521316&w=7686781,d3bbcf","DisplayUrl":"sports.yahoo.com\/nba\/players\/4795","DateTime":"2012-02-17T21:13:00Z"}]}}}'
+      NCAA Women''s Basketball World Soccer","Url":"http:\/\/sports.yahoo.com\/nba\/players\/4795","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4625345231521316&w=c98bae7b,d3bbcf","DisplayUrl":"sports.yahoo.com\/nba\/players\/4795","DateTime":"2012-02-17T21:13:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:52:59 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:32 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Jeremy%20Lin%22%20basketball&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Jeremy%20Lin%22%20basketball&sources=Web
     body: ''
     headers: {}
   response:
@@ -473,7 +473,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:53:00 GMT
+      - Mon, 20 Feb 2012 17:01:32 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Jeremy Lin\"
@@ -517,10 +517,10 @@ http_interactions:
       and fun at the 2011 Jeremy Lin Basketball Academy. Date: June 27 – July 1, 2011
       (Mon-Fri) Location: Palo Alto High ...","Url":"http:\/\/www.jlin7.com\/camp\/jlinpaloalto_info.pdf","DisplayUrl":"www.jlin7.com\/camp\/jlinpaloalto_info.pdf","DateTime":"2012-02-15T11:57:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:53:00 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:32 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Jeremy%20Lin%22%20quidditch&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Jeremy%20Lin%22%20quidditch&sources=Web
     body: ''
     headers: {}
   response:
@@ -535,7 +535,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:53:00 GMT
+      - Mon, 20 Feb 2012 17:01:32 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Jeremy Lin\"
@@ -585,10 +585,10 @@ http_interactions:
       third Quidditch scrimmage on Sunday, October 24 th at 4pm. ... How did 28 teams
       miss on Jeremy Lin? Browse MSG shares set record Browse Lin gets NBA honor","Url":"http:\/\/ca.sports.yahoo.com\/top\/news?slug=ycn-10254763","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4554890592716707&w=eb1e1576,25a6b839","DisplayUrl":"ca.sports.yahoo.com\/top\/news?slug=ycn-10254763","DateTime":"2012-02-16T06:29:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:53:00 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:32 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Michael%20Jordan%22%20football&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Michael%20Jordan%22%20football&sources=Web
     body: ''
     headers: {}
   response:
@@ -603,7 +603,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:53:01 GMT
+      - Mon, 20 Feb 2012 17:01:33 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Michael
@@ -648,10 +648,10 @@ http_interactions:
       My son loves Jordans and football. yes here is a picture of one of his cleats
       http:\/\/www.fabuloussavings.com... shows he does ...","Url":"http:\/\/www.nokiasugarbowl.com\/football_equipment\/football_cleats\/35356.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4792741579194947&w=57c2234a,2789ab97","DisplayUrl":"www.nokiasugarbowl.com\/football_equipment\/football_cleats\/35356.html","DateTime":"2012-02-16T15:59:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:53:01 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:33 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Michael%20Jordan%22%20basketball&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Michael%20Jordan%22%20basketball&sources=Web
     body: ''
     headers: {}
   response:
@@ -666,48 +666,48 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:53:01 GMT
+      - Mon, 20 Feb 2012 17:01:33 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Michael
-      Jordan\" basketball"},"Web":{"Total":2010000,"Offset":0,"Results":[{"Title":"Michael
+      Jordan\" basketball"},"Web":{"Total":2020000,"Offset":0,"Results":[{"Title":"Michael
       Jordan - Wikipedia, the free encyclopedia","Description":"Michael Jeffrey Jordan
       (born February 17, 1963) is a former American professional basketball player,
-      active entrepreneur, and majority owner of the Charlotte Bobcats.","Url":"http:\/\/en.wikipedia.org\/wiki\/Michael_Jordan","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4536860329117956&w=2523f013,b25cc843","DisplayUrl":"en.wikipedia.org\/wiki\/Michael_Jordan","DateTime":"2012-02-16T02:37:00Z"},{"Title":"NBA
+      active entrepreneur, and majority owner of the Charlotte Bobcats.","Url":"http:\/\/en.wikipedia.org\/wiki\/Michael_Jordan","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4536860329117956&w=83b8efd6,b25cc843","DisplayUrl":"en.wikipedia.org\/wiki\/Michael_Jordan","DateTime":"2012-02-16T02:37:00Z"},{"Title":"NBA
       Video Highlights: Michael Jordan teaching basketball 【 Crossover 】","Description":"Michael
-      Jordan teaching basketball 【 Crossover 】 ... 你支持的NBA球隊 【可以選多於一隊】","Url":"http:\/\/allnbavideo.blogspot.com\/2011\/10\/michael-jordan-teaching-basketball.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4957359085454310&w=4d17ff32,8d232c38","DisplayUrl":"allnbavideo.blogspot.com\/...\/michael-jordan-teaching-basketball.html","DateTime":"2012-02-01T18:19:00Z"},{"Title":"Michael
+      Jordan teaching basketball 【 Crossover 】 ... 你支持的NBA球隊 【可以選多於一隊】","Url":"http:\/\/allnbavideo.blogspot.com\/2011\/10\/michael-jordan-teaching-basketball.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4957359085454310&w=b4cdef46,8d232c38","DisplayUrl":"allnbavideo.blogspot.com\/...\/michael-jordan-teaching-basketball.html","DateTime":"2012-02-01T18:19:00Z"},{"Title":"Michael
       Jordan Basketball Camp ''07 - YouTube","Description":"Michael Jordan Basketball
-      Camp. videographer and edit by Digital Dreams Video 424-603-9606 http:\/\/www.digitaldreamsvideo.biz","Url":"http:\/\/www.youtube.com\/watch?v=ttr-kSZRih4","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4778190237926500&w=ad875725,9e60bb5a","DisplayUrl":"www.youtube.com\/watch?v=ttr-kSZRih4","DateTime":"2012-02-18T03:02:00Z"},{"Title":"Michael
+      Camp. videographer and edit by Digital Dreams Video 424-603-9606 http:\/\/www.digitaldreamsvideo.biz","Url":"http:\/\/www.youtube.com\/watch?v=ttr-kSZRih4","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4778190237926500&w=f5104fcd,9e60bb5a","DisplayUrl":"www.youtube.com\/watch?v=ttr-kSZRih4","DateTime":"2012-02-18T03:02:00Z"},{"Title":"Michael
       Jordan Basketball Tips 09 Conditioning and nutrition - YouTube","Description":"Michael
       Jordan Basketball Tips 09 Conditioning and nutrition Planet Hoops-Your source
-      for Overseas Basketball and more: www.hoop-hype.net","Url":"http:\/\/www.youtube.com\/watch?v=BEHx-1xkuMI","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4833088507675812&w=43b809f0,3c8c38b","DisplayUrl":"www.youtube.com\/watch?v=BEHx-1xkuMI","DateTime":"2012-02-18T04:23:00Z"},{"Title":"Michael
+      for Overseas Basketball and more: www.hoop-hype.net","Url":"http:\/\/www.youtube.com\/watch?v=BEHx-1xkuMI","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4833088507675812&w=c76b9c90,3c8c38b","DisplayUrl":"www.youtube.com\/watch?v=BEHx-1xkuMI","DateTime":"2012-02-18T04:23:00Z"},{"Title":"Michael
       Jordan of Basketball Training!!! JUMPSTART33.COM - Video","Description":"www.JumpStarthoops.com
       Best Basketball Instructional DVD on the market. Learn what you need to know
-      to get to become an All-American!!!","Url":"http:\/\/www.metacafe.com\/watch\/2736831\/michael_jordan_of_basketball_training_jumpstart33_com\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4624185587926404&w=c8c81f7f,58819185","DisplayUrl":"www.metacafe.com\/watch\/2736831\/michael_jordan_of_basketball...","DateTime":"2012-02-16T13:39:00Z"},{"Title":"Michael
+      to get to become an All-American!!!","Url":"http:\/\/www.metacafe.com\/watch\/2736831\/michael_jordan_of_basketball_training_jumpstart33_com\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4624185587926404&w=3449b3f3,58819185","DisplayUrl":"www.metacafe.com\/watch\/2736831\/michael_jordan_of_basketball...","DateTime":"2012-02-16T13:39:00Z"},{"Title":"Michael
       Jordan - Basketball Legend Compilation - Video","Description":"Michael Jordan,
       the best known athlete in the world, is a leading scorer in the National Basketball
-      Association (NBA), who led the Chicago Bulls to many recent NBA ...","Url":"http:\/\/www.metacafe.com\/watch\/787812\/michael_jordan_basketball_legend_compilation\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4610703683815887&w=a416f6fa,84aecd6d","DisplayUrl":"www.metacafe.com\/watch\/787812\/michael_jordan_basketball_legend...","DateTime":"2012-02-18T04:05:00Z"},{"Title":"michael
+      Association (NBA), who led the Chicago Bulls to many recent NBA ...","Url":"http:\/\/www.metacafe.com\/watch\/787812\/michael_jordan_basketball_legend_compilation\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4610703683815887&w=67be6405,84aecd6d","DisplayUrl":"www.metacafe.com\/watch\/787812\/michael_jordan_basketball_legend...","DateTime":"2012-02-18T04:05:00Z"},{"Title":"michael
       jordan basketball | eBay","Description":"eBay: michael jordan basketball ...
       Distance Please enter valid zipcode. Please select a valid popular city. Please
       enter valid zipcode or select a valid popular city. Within Enter miles miles
-      of ZIP Enter Zip code","Url":"http:\/\/www.ebay.com\/sch\/Autographs-Original-\/51\/i.html?_nkw=michael+jordan+basketball","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4580930981593721&w=d62ea0e9,464b7f61","DisplayUrl":"www.ebay.com\/...\/51\/i.html?_nkw=michael+jordan+basketball","DateTime":"2012-02-16T20:11:00Z"},{"Title":"NBA.com:
+      of ZIP Enter Zip code","Url":"http:\/\/www.ebay.com\/sch\/Autographs-Original-\/51\/i.html?_nkw=michael+jordan+basketball","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4580930981593721&w=4d48ec42,464b7f61","DisplayUrl":"www.ebay.com\/...\/51\/i.html?_nkw=michael+jordan+basketball","DateTime":"2012-02-16T20:11:00Z"},{"Title":"NBA.com:
       Michael Jordan Summary","Description":"Michael Jordan By acclamation, Michael
       Jordan is the greatest basketball player of all time. Although, a summary of
       his basketball career and influence on the game inevitably fails to do it justice,
-      as a phenomenal athlete with a unique ...","Url":"http:\/\/www.nba.com\/history\/players\/jordan_summary.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4979765928919426&w=3e1ea2f2,b6c9eb7a","DisplayUrl":"www.nba.com\/history\/players\/jordan_summary.html","DateTime":"2012-02-17T20:46:00Z"},{"Title":"Michael
+      as a phenomenal athlete with a unique ...","Url":"http:\/\/www.nba.com\/history\/players\/jordan_summary.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4979765928919426&w=b2add60b,b6c9eb7a","DisplayUrl":"www.nba.com\/history\/players\/jordan_summary.html","DateTime":"2012-02-17T20:46:00Z"},{"Title":"Michael
       Jordan Basketball Star 2011 Profile,Bio,Images & Wallpapers | New Sports Stars","Description":"Basketball
       might have been in his genes, but Michael Jordan had to work hard to develop
       to his full potential. Being cut from the varsity basketball team in his first
       year at high school might have drove him to become the best basketball player
-      in ...","Url":"http:\/\/bestsportsstar.blogspot.com\/2011\/08\/michael-jordan-basketball-star-2011.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4943713973242180&w=fd13a35f,4876ae79","DisplayUrl":"bestsportsstar.blogspot.com\/2011\/08\/michael-jordan-basketball-star...","DateTime":"2011-09-27T21:43:00Z"},{"Title":"Top
+      in ...","Url":"http:\/\/bestsportsstar.blogspot.com\/2011\/08\/michael-jordan-basketball-star-2011.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4943713973242180&w=f7dbf566,4876ae79","DisplayUrl":"bestsportsstar.blogspot.com\/2011\/08\/michael-jordan-basketball-star...","DateTime":"2011-09-27T21:43:00Z"},{"Title":"Top
       10 Michael Jordan Quotes. Inspirational Michael Jordan Basketball Quotes.","Description":"These
       amazing Michael Jordan Quotes are sure to inspire & motivate you. Inspirational
-      basketball quotes from the NBA legend himself. Top 10 Michael Jordan quotes...","Url":"http:\/\/www.inspirational-quotes-and-quotations.com\/michael-jordan-quotes.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4696323861250795&w=693494a4,92cb3453","DisplayUrl":"www.inspirational-quotes-and-quotations.com\/michael-jordan-quotes.html","DateTime":"2012-02-15T12:40:00Z"}]}}}'
+      basketball quotes from the NBA legend himself. Top 10 Michael Jordan quotes...","Url":"http:\/\/www.inspirational-quotes-and-quotations.com\/michael-jordan-quotes.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4696323861250795&w=e15096dc,92cb3453","DisplayUrl":"www.inspirational-quotes-and-quotations.com\/michael-jordan-quotes.html","DateTime":"2012-02-15T12:40:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:53:01 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:33 GMT
 - request:
     method: get
-    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Michael%20Jordan%22%20quidditch&sources=Web
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Michael%20Jordan%22%20quidditch&sources=Web
     body: ''
     headers: {}
   response:
@@ -722,7 +722,7 @@ http_interactions:
       X-Content-Type-Options:
       - nosniff
       Date:
-      - Mon, 20 Feb 2012 16:53:02 GMT
+      - Mon, 20 Feb 2012 17:01:34 GMT
       Connection:
       - keep-alive
     body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Michael
@@ -771,5 +771,5 @@ http_interactions:
       I Do Not Have Complete Sets Of These Cards, I Will Be Listing These Cards ...
       Space Jam Album Stickers Featuring Michael Jordan $0.25 Feb-14 ...","Url":"http:\/\/www.onlineauction.com\/index.php?page=auction:view_item&auction_id=1116142","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4530920382989614&w=a03e6e28,4e48c765","DisplayUrl":"www.onlineauction.com\/index.php?page=auction:view_item&auction_id=...","DateTime":"2012-02-15T01:53:00Z"}]}}}'
     http_version: 
-  recorded_at: Mon, 20 Feb 2012 16:53:02 GMT
+  recorded_at: Mon, 20 Feb 2012 17:01:34 GMT
 recorded_with: VCR 2.0.0.rc1

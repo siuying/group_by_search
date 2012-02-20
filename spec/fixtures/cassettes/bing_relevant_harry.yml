@@ -1,0 +1,199 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Harry%20Potter%22%20football&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6618'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 17:07:54 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
+      football"},"Web":{"Total":2740000,"Offset":0,"Results":[{"Title":"Football -
+      Harry Potter Wiki","Description":"In Harry Potter and the Philosopher''s Stone,
+      Dean Thomas yells for a red card when Harry Potter was almost knocked off his
+      broom in a Quidditch match, which is a serious offence in football. Because
+      \"football\" means something different in the United States ...","Url":"http:\/\/harrypotter.wikia.com\/wiki\/Football","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4749383884081010&w=e6817b15,da62e3f4","DisplayUrl":"harrypotter.wikia.com\/wiki\/Football","DateTime":"2012-02-12T17:37:00Z"},{"Title":"Harry
+      Potter Gryffindor Football Tee - 277532","Description":"ShopWiki has 29 results
+      for Harry Potter Gryffindor Football Tee - 277532, including Harry Potter Gryffindor
+      Crest Women''s Fitted T-Shirt, Harry Potter Gryffindor Tee, Harry Potter Gryffindor
+      Potter Women''s Fitted T-Shirt from Warner Bros., and Harry ...","Url":"http:\/\/www.shopwiki.com\/l\/Harry-Potter-Gryffindor-Football-Tee-%7E-277532","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4772946079385549&w=1889fa4d,dca4eea","DisplayUrl":"www.shopwiki.com\/l\/Harry-Potter-Gryffindor-Football-Tee-~-277532","DateTime":"2012-02-16T22:20:00Z"},{"Title":"Ahmed
+      Bouhedda, 40. Harry Potter, Football, Indépendant, Boggle, Pêcher, Rangers F.C.,
+      Phil Collins, Le Marchand de sable - Sophie..., Cuisine ...","Description":"Harry
+      Potter, Football, Indépendant, Boggle, Pêcher, Rangers F.C., Phil Collins, Le
+      Marchand de sable - Sophie..., Cuisine antillaise, Arbitrage Football, Translation,
+      Comédies romantiques. Ahmed Bouhedda, 40: Ahmed: bienvenue tout le monde .","Url":"http:\/\/badoo.com\/0233820140\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4531800852595482&w=9da8f210,4b8c75e0","DisplayUrl":"badoo.com\/0233820140","DateTime":"2012-02-17T16:46:00Z"},{"Title":"Harry
+      Potter Football – Part 1 – Characters. - Football Blog - TheFootballAsylum |
+      The Best Football Blog","Description":"For an instance, I love the Harry Potter
+      series(books & movies) like anything. So one fine day,bored of my studies, i
+      thought what if both Football & Harry Potter are interrelated with each other.
+      So here i am, bringing to you Harry Potter Football. In ...","Url":"http:\/\/thefootballasylum.com\/premier-league\/harry-potter-football-part-1-characters","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=5001068962120452&w=1504d3f5,55cc5254","DisplayUrl":"thefootballasylum.com\/premier-league\/harry-potter-football-part-1...","DateTime":"2012-02-16T01:24:00Z"},{"Title":"Harry
+      Potter Football - Part 3 - Deathly Hallows","Description":"Harry Potter Football
+      – Part 3 – Deathly Hallows ... To read Part 1 of this series click here and
+      for Part 2 click here Drop in your Comments. Be in Touch with us on Facebook
+      page “Football Asylum“ Twitter : @football ...","Url":"http:\/\/thefootballasylum.com\/featured\/harry-potter-football-part-3-deathly-hallows","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4658682771604201&w=bc862e7b,a80efdd6","DisplayUrl":"thefootballasylum.com\/featured\/harry-potter-football-part-3...","DateTime":"2012-02-15T00:27:00Z"},{"Title":"Cardgame-club.it:
+      Cardgame-Club: carte collezionabili Yu-Gi-Oh!, Pokémon, VS System, Duel Masters,
+      Magic the Gathering, Harry Potter, Football ...","Description":"Giochi di carte
+      collezionabili, Yu-Gi-Oh!, Pokémon, VS System, Duel Masters, Magic the Gathering,
+      Harry Potter, Football Champions, Star Wars: tutte le carte acquistabili online,
+      vasto catalogo ...","Url":"http:\/\/dawhois.com\/site\/cardgame-club.it.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4642520804819529&w=42fbfd53,ed22387f","DisplayUrl":"dawhois.com\/site\/cardgame-club.it.html","DateTime":"2012-02-13T09:29:00Z"},{"Title":"Justin
+      Bieber, Twilight, Harry Potter ou le football? | Facebook","Description":"The
+      Big Challenge a écrit un article intitulé Justin Bieber, Twilight, Harry Potter
+      ou le football? Lisez cet article dans son intégralité ici.","Url":"http:\/\/fr-fr.facebook.com\/note.php?note_id=173639592654108","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4679951450245793&w=ea3b620f,b5eab19a","DisplayUrl":"fr-fr.facebook.com\/note.php?note_id=173639592654108","DateTime":"2012-02-16T22:46:00Z"},{"Title":"Shippin''
+      Out July 10-16: NCAA Football 12, Deathly Hallows Part 2 - PlayStation 3 News
+      at GameSpot","Description":"New release slate led by latest college gridiron
+      game, Harry Potter film tie-in; UFC Personal Trainer: Ultimate Fitness System
+      for Wii and Ms. ''Splosion Man also out. First out of the tunnel this week is
+      EA Sports'' NCAA Football 12 for the Xbox 360 and PlayStation 3, which has former
+      University of","Url":"http:\/\/www.gamespot.com\/ps3\/action\/harry-potter-and-the-deathly-hallows-part-2\/news\/6323045\/shippin-out-july-10-16-ncaa-football-12-deathly-hallows-part-2","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4528536679416173&w=af9bdf32,422e280","DisplayUrl":"www.gamespot.com\/ps3\/action\/harry-potter-and-the-deathly-hallows...","DateTime":"2012-02-10T00:16:00Z"},{"Title":"Best
+      celebration ever in football \/ Soccer YO MAMA SO FAT! Harry Potter - YouTube","Description":"I
+      talk about a lot of stuff in this video. A kid gets in a fight, a bear attack,
+      and the Greatest celebration in football or soccer that I''ve ever seen! Enjoy
+      the video ...","Url":"http:\/\/www.youtube.com\/watch?v=dHIp6mRx7kk","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4751527076299889&w=1426f891,bc8f707f","DisplayUrl":"www.youtube.com\/watch?v=dHIp6mRx7kk","DateTime":"2012-02-17T08:30:00Z"},{"Title":"Games
+      launching this week - Harry Potter, NCAA Football 12 - National Console Gaming
+      | Examiner.com","Description":"Harry Potter and the Deathly Hallows Part 2 NCAA
+      Football 12 Tiger Woods PGA Tour 12: The Masters PS Move Bundle PSN Assassin’s
+      Creed: Brotherhood PS minis Mighty Flip Champs! DX PSN Demos Catherine Dead
+      Nation PixelJunk ...","Url":"http:\/\/www.examiner.com\/console-gaming-in-national\/games-launching-this-week-harry-potter-ncaa-football-12","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4955795714475859&w=9c72aa19,27b83db0","DisplayUrl":"www.examiner.com\/console-gaming-in-national\/games-launching-this...","DateTime":"2012-01-02T16:51:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 17:07:54 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Harry%20Potter%22%20basketball&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6276'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 17:07:54 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
+      basketball"},"Web":{"Total":2230000,"Offset":0,"Results":[{"Title":"Harry Potter
+      Basketball Night « aaronbair","Description":"So, my teacher put me in charge
+      of a team of other students and we were assigned to market and plan an event
+      for a girls basketball game. So, we decided what could have been better than
+      a Harry Potter themed basketball game. Now, just ...","Url":"http:\/\/aaronbair.wordpress.com\/2012\/02\/03\/harry-potter-basketball-night\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4613327912110588&w=7693b3e7,20f87850","DisplayUrl":"aaronbair.wordpress.com\/2012\/02\/03\/harry-potter-basketball-night","DateTime":"2012-02-09T07:07:00Z"},{"Title":"Dumbledore
+      could have killed Voldemort - Harry Potter discussion forum for movies, books,
+      and more! - The Leaky Lounge","Description":"Harry Potter discussion forum for
+      movies, books, and more! - The Leaky Lounge: Dumbledore could have killed Voldemort
+      - Harry Potter discussion forum for movies ... Joined: 27-August 06 Location:
+      Iowa, USA Interests: Harry Potter, Boys, Harry ...","Url":"http:\/\/www.leakylounge.com\/index.php?showtopic=36222","DisplayUrl":"www.leakylounge.com\/index.php?showtopic=36222","DateTime":"2012-02-09T02:28:00Z"},{"Title":"Harry
+      Potter: Quidditch World Cup Review for GameCube: Flying Broomsticks + Soccer
+      + Basketball = Quidditch - GameFAQs","Description":"For Harry Potter: Quidditch
+      World Cup on the GameCube, a reader review titled \"Flying Broomsticks + Soccer
+      + Basketball = Quidditch\". ... \"Flying Broomsticks + Soccer + Basketball =
+      Quidditch\" Introduction: Qudditch, the famous sport of ...","Url":"http:\/\/www.gamefaqs.com\/gamecube\/914743-harry-potter-quidditch-world-cup\/reviews\/review-65947","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4590891012327012&w=c677cbb9,690badb3","DisplayUrl":"www.gamefaqs.com\/gamecube\/914743-harry-potter-quidditch-world-cup\/...","DateTime":"2012-02-12T01:41:00Z"},{"Title":"The
+      Scoop - harry-potter","Description":"... s 3-D biopic won''t be the only place
+      you can see the Beebs on the big screen. Bieber is teaming up with co-star Mark
+      Wahlberg for an as-yet-untitled street basketball drama. ... • A sneak peek
+      at a scene from \"Harry Potter and the Deathly ...","Url":"http:\/\/scoop.today.msnbc.msn.com\/harry-potter","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4607147462100862&w=cd75835d,5f5c9d2f","DisplayUrl":"scoop.today.msnbc.msn.com\/harry-potter","DateTime":"2012-02-06T05:23:00Z"},{"Title":"Y8
+      Basketball - Play game Basketball at Love Y8.com","Description":"447 of 497
+      persons voted like for Basketball! Add game to your web or blog! Tags: basketball,
+      basketball If you liked Y8 Basketball, you may also enjoy... ... 03 Leopard
+      Print Fashion 04 Moko Moko 05 Quadrato 06 Galaxy Guard 07 Harry Potter ...","Url":"http:\/\/www.lovey8.com\/Basketball.y8","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4765253789289989&w=f3800ab5,286d0cb3","DisplayUrl":"www.lovey8.com\/Basketball.y8","DateTime":"2012-02-10T19:18:00Z"},{"Title":"BBC
+      News - Harry Potter: Quidditch for Muggles","Description":"\"But to an external
+      observer watching a basketball game for the first time, that might look crazy
+      too,\" she says, without a hint of irony. For those who have managed to escape
+      all things Harry Potter, Quidditch is the fictional sport popularised in JK
+      ...","Url":"http:\/\/www.bbc.co.uk\/news\/world-us-canada-12044924","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=5028221756769876&w=d61c330d,56b838c2","DisplayUrl":"www.bbc.co.uk\/news\/world-us-canada-12044924","DateTime":"2012-02-16T01:28:00Z"},{"Title":"Tom
+      Felton: Harry Potter Movies'' Draco Malfoy - Yahoo! Voices - voices.yahoo.com","Description":"It
+      was in 2001 that Felton started his role as Draco Malfoy in the Harry Potter
+      movies. Aside from his acting, Felton is an avid sportsman. He enjoys taking
+      part in soccer, basketball, cricket, tennis and even ice skating to name a few
+      of the sports that ...","Url":"http:\/\/voices.yahoo.com\/article\/311342\/tom_felton_harry_potter_movies_draco.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=5033775136048989&w=55496d23,1f0166da","DisplayUrl":"voices.yahoo.com\/article\/311342\/tom_felton_harry_potter_movies...","DateTime":"2012-01-28T10:16:00Z"},{"Title":"Basketball
+      - Brickipedia, the LEGO Wiki","Description":"Harry Potter Kingdoms Community
+      Editors Chat User awards Brickipedian of the Month Reviewer of the Month Customizer
+      of the Month Rating Overview Forums ... LEGO Basketball was a subtheme of Sports
+      that ran from 2003 to 2004 with sets ...","Url":"http:\/\/lego.wikia.com\/wiki\/Basketball","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4527488708116674&w=652f7c5c,1f8050b","DisplayUrl":"lego.wikia.com\/wiki\/Basketball","DateTime":"2012-02-14T15:23:00Z"},{"Title":"Harry
+      Potter Questions, Answers, News, Images and Info | ChaCha","Description":"Harry
+      Potter is the hero and main figure of the Harry Potter series by J.K. Rowling.
+      Though a fictional character, Harry is one of the most popular icons in literature
+      and ... Basketball Football Golf Hockey Motorsports Olympics Scores Soccer Tennis","Url":"http:\/\/www.chacha.com\/topic\/harry-potter","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4544488187494829&w=c70fff8,6d0614b0","DisplayUrl":"www.chacha.com\/topic\/harry-potter","DateTime":"2012-02-12T04:38:00Z"},{"Title":"PartyStore.com:
+      Licensed Themes: Harry Potter party supplies","Description":"All Sports Party
+      Baseball Party Basketball Party Bowling Party Cheerleader Party Football Party
+      NASCAR Party NFL Party Zone Soccer Party ... Harry Potter \"A Magical World\"
+      party supplies Harry Potter TM & Warner Bros. Entertainment Inc.","Url":"http:\/\/www.partystore.com\/catalog\/Harry_Potter-20-1.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4772842997942181&w=1fd5b8ec,a81efcf4","DisplayUrl":"www.partystore.com\/catalog\/Harry_Potter-20-1.html","DateTime":"2012-02-08T22:41:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 17:07:54 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22Harry%20Potter%22%20quidditch&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5406'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 17:07:54 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
+      quidditch"},"Web":{"Total":437000,"Offset":0,"Results":[{"Title":"Quidditch
+      - Wikipedia, the free encyclopedia","Description":"Quidditch is a fictional
+      sport in the story of Harry Potter developed by British author J. K. Rowling
+      for the Harry Potter series of novels. It is described as an extremely rough,
+      but very popular, semi-contact sport, played by wizards and witches around the
+      world. Matches are played between two teams of seven players riding flying ...","Url":"http:\/\/en.wikipedia.org\/wiki\/Quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4703586646230742&w=ef78d891,fa6cb7b3","DisplayUrl":"en.wikipedia.org\/wiki\/Quidditch","DateTime":"2012-02-16T04:28:00Z"},{"Title":"Quidditch
+      - Harry Potter Wiki","Description":"Harry Potter and the Philosopher''s Stone
+      Harry Potter and the Philosopher''s Stone (film) Harry Potte ... Quidditch is
+      a wizarding sport played on broomsticks. It is the most popular game among wizards
+      and witches, and, according to Rubeus Hagrid, the equivalent to ...","Url":"http:\/\/harrypotter.wikia.com\/wiki\/Quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4942919397082782&w=a0c18c9b,7f3a548f","DisplayUrl":"harrypotter.wikia.com\/wiki\/Quidditch","DateTime":"2012-02-15T19:50:00Z"},{"Title":"Harry
+      Potter: Quidditch - YouTube","Description":"A Harry Potter video featuring the
+      wizard sport of Quidditch, and music by the band, Good Charlotte.","Url":"http:\/\/www.youtube.com\/watch?v=mSZryVBd_3Q","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4940454092866993&w=e1e026be,7f9d0285","DisplayUrl":"www.youtube.com\/watch?v=mSZryVBd_3Q","DateTime":"2012-02-15T14:14:00Z"},{"Title":"Harry
+      Potter:Quidditch - YouTube","Description":"Uploaded by LottyLott12 on Nov 21,
+      2007 Harry playing some quidditch with music Category: Entertainment Tags: harry
+      potter quidditch gryffindor slytherin hufflepuff ravenclaw ...","Url":"http:\/\/www.youtube.com\/watch?v=lQn14nt-adM","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4916526833730351&w=a7798794,ee05267b","DisplayUrl":"www.youtube.com\/watch?v=lQn14nt-adM","DateTime":"2012-02-15T04:46:00Z"},{"Title":"Harry
+      Potter Quidditch | Images & Photos |Posters","Description":"Posters from Quidditch
+      and Harry Potter. ... Harrypotterwallart.com licensed products are manufactured
+      and distributed with the permission of Warner Bros. If you should have any questions
+      about the authenticity of our products or our license please ...","Url":"http:\/\/www.harrypotterwallart.com\/quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4678572758925666&w=77bb551e,d22b2b08","DisplayUrl":"www.harrypotterwallart.com\/quidditch","DateTime":"2012-02-13T21:39:00Z"},{"Title":"Harry
+      Potter | Quidditch Tryouts","Description":"High Scores High Scores High Scores
+      High Scores High Scores High Scores High Scores High Scores Harry Potter Publishing
+      Rights J.K.R. 2005 Privacy Policy | Terms of Use","Url":"http:\/\/harrypotter.warnerbros.co.uk\/games\/quidditch\/tryouts.html","DisplayUrl":"harrypotter.warnerbros.co.uk\/games\/quidditch\/tryouts.html","DateTime":"2012-02-15T19:49:00Z"},{"Title":"Harry
+      Potter Quidditch Game","Description":"Fly your broomstick and play Quidditch
+      with Harry Potter. The first player to 50 points wins!...","Url":"http:\/\/www.surfnetkids.com\/games\/broomsticks\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=5032095808095847&w=7520d106,694f9fb2","DisplayUrl":"www.surfnetkids.com\/games\/broomsticks","DateTime":"2012-02-16T14:21:00Z"},{"Title":"Harry
+      Potter: Quidditch World Cup - Wikipedia, the free encyclopedia","Description":"Harry
+      Potter: Quidditch World Cup is a 2003 video game produced by EA Games and EA
+      Sports that features the fictional sport of Quidditch from the Harry Potter
+      franchise.","Url":"http:\/\/en.wikipedia.org\/wiki\/QWC","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4865137539943356&w=5ae01e84,f4fda3b2","DisplayUrl":"en.wikipedia.org\/wiki\/QWC","DateTime":"2012-02-14T09:26:00Z"},{"Title":"Harry
+      Potter - Seeker Practice","Description":"The official site of Harry Potter!
+      Movie trailers, film clips, behind the scenes at Hogwarts. J.K Rowlings'' wizards
+      and witches Harry Potter, Ron Weasley, Hermione Granger, Hagrid, Dumbledore
+      and Lord Voldemort brought to life in Warner Bros. feature ...","Url":"http:\/\/harrypotter.warnerbros.com\/game\/game4.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4624018081907399&w=af31f184,85680ef0","DisplayUrl":"harrypotter.warnerbros.com\/game\/game4.html","DateTime":"2012-02-14T22:53:00Z"},{"Title":"Harry-Potter
+      Quidditch at Flonga","Description":"Play Harry-Potter Quidditch and other flash
+      games at flonga.com. ... Welcome to Flonga Games! All the games on our site
+      are FREE to play and we launch new games every day. You can play thousands of
+      free online games including action, life ...","Url":"http:\/\/www.flonga.com\/play\/harry-potter-quidditch.htm","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4995511270507367&w=bd9cf2e5,bef0e0c0","DisplayUrl":"www.flonga.com\/play\/harry-potter-quidditch.htm","DateTime":"2012-02-12T01:47:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 17:07:54 GMT
+recorded_with: VCR 2.0.0.rc1

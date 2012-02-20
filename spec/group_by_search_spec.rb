@@ -57,6 +57,29 @@ describe "GroupBySearch" do
     end
   end
   
+  describe "BingSearcher" do
+    let(:searcher) {
+      raise "must define ENV['BING_API_KEY'] first!" unless ENV['BING_API_KEY']
+      BingSearcher.new ENV['BING_API_KEY']
+    }
+    let(:groups) {["football", "basketball", "quidditch"]}
+
+    it "should found 'football' as most relevant group for Beckham" do
+      VCR.use_cassette('bing_relevant_beckham') do
+        group = searcher.most_relevant(groups, "David Beckham")
+        group.should == "football"
+      end
+    end
+
+    it "should found 'quidditch' as most relevant group for Potter" do
+      VCR.use_cassette('bing_relevant_harry') do
+        group = searcher.most_relevant(groups, "Harry Potter")
+        group.should == "quidditch"
+      end
+    end
+  end
+  
+
   describe "Grouper with BingSearcher" do
     let(:grouper) {
       raise "must define ENV['BING_API_KEY'] first!" unless ENV['BING_API_KEY']

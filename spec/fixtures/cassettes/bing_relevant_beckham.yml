@@ -1,0 +1,193 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22David%20Beckham%22%20football&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5653'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 17:07:53 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
+      football"},"Web":{"Total":1140000,"Offset":0,"Results":[{"Title":"David Beckham
+      | Profile | News | Stats - Yahoo! Eurosport UK","Description":"View David Beckham
+      profile on Yahoo! Eurosport UK. Find the latest David Beckham news, stats, photos,
+      titles, clubs, goals and more. ... Global Football News FA Cup League Cup Copa
+      América 2011 Women''s World Cup Euro U21 Early Doors ...","Url":"http:\/\/uk.eurosport.yahoo.com\/football\/david-beckham.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4528592513861133&w=424f2c50,f5515a17","DisplayUrl":"uk.eurosport.yahoo.com\/football\/david-beckham.html","DateTime":"2012-02-18T02:49:00Z"},{"Title":"David
+      Beckham - Wikipedia, the free encyclopedia","Description":"7 David Beckham Academy
+      8 Personal life 8.1 Affair claims 8.2 Legal issues 9 Fame beyond football 10
+      Charitable work 11 Appearances in films 11.1 Bend It Like Beckham ... At the
+      beginning of the 1996–97 season David Beckham was given the ...","Url":"http:\/\/en.wikipedia.org\/wiki\/David_Beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4686862054130466&w=93724fcc,77b530c2","DisplayUrl":"en.wikipedia.org\/wiki\/David_Beckham","DateTime":"2012-02-16T00:55:00Z"},{"Title":"David
+      Beckham Football Greats - YouTube","Description":"David beckham is the most
+      famous soccer player in the world from his fashion, his wife and his real skills","Url":"http:\/\/www.youtube.com\/watch?v=JIodDT-z8Ao","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4747983727233160&w=e968b165,db2b9dbb","DisplayUrl":"www.youtube.com\/watch?v=JIodDT-z8Ao","DateTime":"2012-02-05T04:30:00Z"},{"Title":"David
+      Beckham Football Skills.. - YouTube","Description":"Uploaded by beckfum on Oct
+      11, 2011 No description available. Category: Sports Tags: David Beckham Football
+      Skills Sofia Vergara TV commercial Behind the scenes Soccer trick ...","Url":"http:\/\/www.youtube.com\/watch?v=AKfcXifErdY","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4742464696617394&w=336bed20,3322fc90","DisplayUrl":"www.youtube.com\/watch?v=AKfcXifErdY","DateTime":"2012-02-17T10:48:00Z"},{"Title":"David
+      Beckham | Football | The Guardian","Description":"Video (1min 14sec), 20 Jan
+      2012: At a press conference, David Beckham explains his decision to re-sign
+      with the LA Galaxy football club after the expiry of his original five-year
+      contract ... 6 Jan 2012: Kanye West defends his fashion cred, David ...","Url":"http:\/\/www.guardian.co.uk\/football\/david-beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=5001159160629053&w=bad89d75,97076216","DisplayUrl":"www.guardian.co.uk\/football\/david-beckham","DateTime":"2012-02-18T15:23:00Z"},{"Title":"sports
+      player: david beckham world football players pictures wallpaper images and biography","Description":"david
+      beckham world football players pictures wallpaper images and biography David
+      Robert Joseph http:\/\/www.blogger.com\/img\/blank.gifBeckham, OBE(born 2 May
+      1975)is an English footballer who plays midfield for Los Angeles ...","Url":"http:\/\/sportsgallries.blogspot.com\/2011\/08\/david-beckham-world-football-players.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4549972862829411&w=6bd0d56d,5c0ea9ad","DisplayUrl":"sportsgallries.blogspot.com\/2011\/08\/david-beckham-world-football...","DateTime":"2012-02-08T15:13:00Z"},{"Title":"David
+      Beckham Football Pictures","Description":"Download pictures of David Beckham
+      Football Pictures ... Below are all our David Beckham Football Pictures We also
+      have many pictures of David Beckham. 1 - 24 of 14000 David Beckham < Prev 1
+      Next >","Url":"http:\/\/www.footiewallpapers.com\/David-Beckham\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4909079351856459&w=2e620a6b,e4b00963","DisplayUrl":"www.footiewallpapers.com\/David-Beckham","DateTime":"2012-02-16T04:04:00Z"},{"Title":"David
+      Beckham | Fan-site, News, Forum, Photos, Blog, Pics, Videos, Wallpapers","Description":"David
+      Beckham - Fan site dedicated to David Beckham. All the latest news, videos,
+      wallpapers and photos of the England star.","Url":"http:\/\/davidbeckham.footballfantalk.com\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4998539229593885&w=81f203a8,268abc1c","DisplayUrl":"davidbeckham.footballfantalk.com","DateTime":"2012-02-15T18:41:00Z"},{"Title":"David
+      Beckham - Google+","Description":"David Beckham - Kick a football around for
+      a living, married to Victoria and father to four amazing children... - Footballer
+      - The official Google+ Profile for David Beckham","Url":"https:\/\/plus.google.com\/108846998869637201361","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4525233849892996&w=907dc9de,7e617fe","DisplayUrl":"https:\/\/plus.google.com\/108846998869637201361","DateTime":"2012-02-14T22:44:00Z"},{"Title":"Best
+      Celebrity: David Beckham English Football Player","Description":"David Robert
+      Joseph Beckham, OBE (born 2 May 1975) is an English footballer who plays midfield
+      for Los Angeles Galaxy in Major League Soccer, having ... David Beckham Beach
+      Football","Url":"http:\/\/celebrityandcelebrity.blogspot.com\/2011\/07\/david-beckham-english-football-player.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4831851548641720&w=b77e281c,e6a93cd8","DisplayUrl":"celebrityandcelebrity.blogspot.com\/2011\/07\/david-beckham-english...","DateTime":"2012-02-02T02:35:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 17:07:53 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22David%20Beckham%22%20basketball&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5984'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 17:07:53 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
+      basketball"},"Web":{"Total":526000,"Offset":0,"Results":[{"Title":"Beckham Basketball
+      - YouTube","Description":"Celebrate Originality ''Beckham and Garnett Play Basketball''
+      David Beckham and Kevin Garnett Play Basketball","Url":"http:\/\/www.youtube.com\/watch?v=aCuS7OyLRCs","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4840115072141369&w=9cddedca,b3652093","DisplayUrl":"www.youtube.com\/watch?v=aCuS7OyLRCs","DateTime":"2012-02-17T22:36:00Z"},{"Title":"David
+      Beckham playing basketball with his feet - YouTube","Description":"Uploaded
+      by strongyang on Jun 4, 2009 No description available. Category: Sports Tags:
+      Soccer David Pwned License: Standard YouTube License. 2 likes, 0 dislikes.","Url":"http:\/\/www.youtube.com\/watch?v=STgxb0KmnwI","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4670622772167087&w=48bd07dc,d05f7297","DisplayUrl":"www.youtube.com\/watch?v=STgxb0KmnwI","DateTime":"2012-02-16T12:33:00Z"},{"Title":"Beckham
+      Basketball - Video","Description":"Celebrate Originality ''Beckham and Garnett
+      Play Basketball'' David Beckham and Kevin Garnett Play Basketball","Url":"http:\/\/www.metacafe.com\/watch\/2522500\/beckham_basketball\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4895949644235329&w=ac6d32aa,4729cbbf","DisplayUrl":"www.metacafe.com\/watch\/2522500","DateTime":"2012-02-13T05:50:00Z"},{"Title":"Pictures
+      of David Beckham and Victoria Beckham Cheering on Romeo During Basketball Game","Description":"Pictures
+      of David Beckham and Victoria Beckham Cheering on Romeo During Basketball Game
+      David and Victoria Beckham Cheer on Future Lakers Star Romeo! ... Victoria,
+      David, and Brooklyn Beckham all went to cheer on Romeo during his ...","Url":"http:\/\/www.popsugar.com\/Pictures-David-Beckham-Victoria-Beckham-Cheering-Romeo-During-Basketball-Game-11049005","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4673478926469400&w=f40f248b,5a1e6475","DisplayUrl":"www.popsugar.com\/Pictures-David-Beckham-Victoria-Beckham-Cheering...","DateTime":"2012-02-16T16:43:00Z"},{"Title":"David
+      Beckham takes boys to the basketball - mirror.co.uk","Description":"Doting dad
+      David Beckham took eldest sons Brooklyn, nine and Romeo, five, to a basketball
+      game in their adopted city of Los Angeles at the weekend.","Url":"http:\/\/www.mirror.co.uk\/celebs\/2008\/04\/14\/david-beckham-takes-boys-to-the-basketball-115875-20382558\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4526457901745019&w=4308f2bb,205b6580","DisplayUrl":"www.mirror.co.uk\/celebs\/2008\/04\/14\/david-beckham-takes-boys-to-the...","DateTime":"2012-02-10T09:10:00Z"},{"Title":"He
+      shoots, he scores! David Beckham sinks a hole in one... in a basketball hoop
+      with his golden foot | Mail Online","Description":"He is lauded for his stunning
+      set piece free kicks. But David Beckham showed he can hit the spot in more than
+      one sport as he sunk a football in a basket hoop - with his foot. The amazing
+      shot came as Beckham squared off against NBA giant Kevin Garnett in some footage
+      released by sponsors Adidas","Url":"http:\/\/www.dailymail.co.uk\/tvshowbiz\/article-1157583\/He-shoots-scores-David-Beckham-sinks-hole--basketball-hoop-golden-foot.html","DisplayUrl":"www.dailymail.co.uk\/tvshowbiz\/article-1157583","DateTime":"2012-02-15T00:23:00Z"},{"Title":"David
+      Beckham takes Gordon Ramsay to the basketball... but they spend most of the
+      match comparing their Rolexes | Mail Online","Description":"Since moving to
+      California three years ago, David Beckham has become an avid fan of local basketball
+      team the Los Angeles Lakers. But as he introduced fellow Brit Gordon Ramsay
+      to the game at the Staples Center yesterday, it looked like the pair were more
+      interested in comparing their expensive","Url":"http:\/\/www.dailymail.co.uk\/tvshowbiz\/article-1265310\/David-Beckham-takes-Gordon-Ramsay-basketball--spend-match-comparing-Rolexes.html","DisplayUrl":"www.dailymail.co.uk\/tvshowbiz\/article-1265310\/David-Beckham-takes...","DateTime":"2012-02-12T15:03:00Z"},{"Title":"David
+      Beckham Photos - New Photos","Description":"David Beckham outside the pitch
+      photos that are new to the gallery will appear here. So check here regularly
+      to ... David Beckham will be global brand for samsung May 04 2011 Date: 07\/03\/2011
+      Size: 1 item David Beckham at NBA Basketball ...","Url":"http:\/\/davidbeckham.fans-online.com\/photos\/today\/?g2_page=2","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4514212965516018&w=6aa9ad38,77421cc5","DisplayUrl":"davidbeckham.fans-online.com\/photos\/today\/?g2_page=2","DateTime":"2012-02-17T23:24:00Z"},{"Title":"David
+      Beckham - Wikipedia, the free encyclopedia","Description":"At the beginning
+      of the 1996–97 season David Beckham was given the number 10 shirt that had most
+      recently been worn by Mark Hughes. On 17 August 1996 (the first day of ... Baseball,
+      basketball, American football, they''ve been around. But I ...","Url":"http:\/\/en.wikipedia.org\/wiki\/David_Beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4686862054130466&w=93724fcc,77b530c2","DisplayUrl":"en.wikipedia.org\/wiki\/David_Beckham","DateTime":"2012-02-16T00:55:00Z"},{"Title":"David
+      Beckham | Access Hollywood - Celebrity News, Photos & Videos","Description":"David
+      Beckham arrives for an England soccer team training session AP David Beckham
+      waves during the closing ceremony for the 2008 Beijing Olympics AP David Beckham
+      watches the men’s gold medal basketball game between the USA and ...","Url":"http:\/\/www.accesshollywood.com\/david-beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4708190865458047&w=df90421f,681ca1d5","DisplayUrl":"www.accesshollywood.com\/david-beckham","DateTime":"2012-02-17T23:03:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 17:07:53 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=BING_API_KEY&query=%22David%20Beckham%22%20quidditch&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6822'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 17:07:53 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
+      quidditch"},"Web":{"Total":13500,"Offset":0,"Results":[{"Title":"David Beckham:
+      Soccer Star Ready to Get His Harry Potter on for Son''s Birthday | Bleacher
+      Report","Description":"David Beckham is a wealthy man with the power to buy
+      and sell anything in the world, regardless of what it might be... ... The only
+      thing that would make this day better for Brooklyn is if Becks hired two Quidditch
+      teams to play a game right in front ...","Url":"http:\/\/bleacherreport.com\/articles\/837421-david-beckham-soccer-star-ready-to-get-his-harry-potter-on-for-sons-birthday","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=5044804621570114&w=4ef3d36a,6b5d748d","DisplayUrl":"bleacherreport.com\/articles\/837421-david-beckham-soccer-star-ready...","DateTime":"2012-02-16T16:11:00Z"},{"Title":"What
+      is Harry Potter''s Jersey number? | ChaCha","Description":"What is Harry Potter''s
+      Jersey number? ChaCha Answer: Harry Potter''s Quidditch jersey number is 7,
+      the same as David Beckham''s England... ... How old is harry potter? Harry Potters
+      age changes throughout the series but at the en... What is a ...","Url":"http:\/\/www.chacha.com\/question\/what-is-harry-potter%27s-jersey-number","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4833316130981110&w=c12c0d1,4c4a6100","DisplayUrl":"www.chacha.com\/question\/what-is-harry-potter%27s-jersey-number","DateTime":"2012-01-14T03:48:00Z"},{"Title":"Harry
+      Potter Papercraft: Quidditch Field - Quidditch - Zimbio","Description":"Part
+      of the release included a paper model of the Quidditch Field at Hogwarts. The
+      Quidditch Field is a papercraft gem that may have been overlooked by many people
+      in ... See David Beckham''s H&M ...","Url":"http:\/\/www.zimbio.com\/Quidditch\/articles\/Hb2_waaJILe\/Harry+Potter+Papercraft+Quidditch+Field","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4701490707107523&w=2901b727,949b5504","DisplayUrl":"www.zimbio.com\/Quidditch\/articles\/Hb2_waaJILe\/Harry+Potter...","DateTime":"2012-01-04T03:53:00Z"},{"Title":"What
+      is Harry Potter''s number on quidditch? | ChaCha","Description":"What is Harry
+      Potter''s number on quidditch? ChaCha Answer: Harry Potter''s Quidditch jersey
+      number is 7, the same as David Beckham''s E... ... Harry potter? Harry Potter
+      Facts: Sirius Black''s tattoos are borrowed from ... What did Harry Potter eat
+      ...","Url":"http:\/\/www.chacha.com\/question\/what-is-harry-potter%27s-number-on-quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4742456107074711&w=d305be29,d59befed","DisplayUrl":"www.chacha.com\/question\/what-is-harry-potter%27s-number-on-quidditch","DateTime":"2012-02-16T16:02:00Z"},{"Title":"Harry
+      Potter: Quidditch World Cup Cheats, Codes, Cheat Codes, Glitches, Walkthrough,
+      Guide, Achievements, FAQs for PS2","Description":"Take to the air in the first
+      game that allows players to fully experience the magical speed, power, and competition
+      of Quidditch, the favorite sport of witches and ... David Beckham Soccer","Url":"http:\/\/cheatcodes.com\/harry-potter-quidditch-world-cup-ps2\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4954120680901716&w=f660b374,3e387278","DisplayUrl":"cheatcodes.com\/harry-potter-quidditch-world-cup-ps2","DateTime":"2012-02-17T00:28:00Z"},{"Title":"It''s
+      Quidditch time! (Waka Waka) - YouTube","Description":"who needs David Beckham,Frank
+      Lampard and John Terry when you have got Oliver Wood,Harry Potter and The Weasley
+      Twins ... @breannerocks09 they are all from hp. those scenes are from the Quidditch
+      World Cup in Goblet of Fire. The guy is ...","Url":"http:\/\/www.youtube.com\/watch?v=xaqCMxfOzp8","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4988287142856931&w=26f9709c,c196a0e0","DisplayUrl":"www.youtube.com\/watch?v=xaqCMxfOzp8","DateTime":"2012-02-16T18:33:00Z"},{"Title":"VICTORIA
+      AND DAVID BECKHAM PLAN MAGICAL BIRTHDAY AT HOGWARTS FOR BROOKLYN","Description":"Victoria
+      and David Beckham plan magical birthday at Hogwarts for Brooklyn News about
+      Victoria Beckham ... \"He will be blown away to be in the place where Harry
+      and his friends learned to play Quidditch and cast spells. There is nothing
+      like ...","Url":"http:\/\/www.metrolyrics.com\/2011-victoria-and-david-beckham-plan-magical-birthday-at-hogwarts-for-brooklyn-news.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4964115063376553&w=c0047cf1,f1e4e626","DisplayUrl":"www.metrolyrics.com\/2011-victoria-and-david-beckham-plan-magical...","DateTime":"2012-02-16T04:35:00Z"},{"Title":"What
+      team did Viktor Krum play with in The Quidditch World Cup","Description":"Which
+      country does Viktor Krum play for during the Quidditch World Cup? Bulgaria What
+      team does becks play for in the world cup? David Beckham played for England.
+      What team will drogba play for in the world cup? Chelsea What world cup team
+      does swarez ...","Url":"http:\/\/wiki.answers.com\/Q\/What_team_did_Viktor_Krum_play_with_in_The_Quidditch_World_Cup","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4555994397346042&w=5dd539e3,be88841","DisplayUrl":"wiki.answers.com\/Q\/What_team_did_Viktor_Krum_play_with_in_The...","DateTime":"2012-02-15T01:08:00Z"},{"Title":"Excéntrico
+      regalo de David Beckham para su hijo (Foto)","Description":"David Beckham planea
+      todo un ’cumple mágico’ para su hijo Brooklyn, que cumplirá 13 años el próximo
+      mes de marzo. El futbolista pretende alquilar el castillo de ... Perderá la
+      cabeza cuando esté en el mismo lugar donde Harry y sus ...","Url":"http:\/\/www.lapatilla.com\/site\/2011\/09\/03\/excentrico-regalo-de-david-beckham-para-su-hijo-foto\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4622798324892559&w=f4a797ec,2a3bbf25","DisplayUrl":"www.lapatilla.com\/site\/2011\/09\/03\/excentrico-regalo-de-david...","DateTime":"2012-02-17T13:53:00Z"},{"Title":"Timothy
+      Garton Ash: What Britain still has in spades is cultural power. Let''s cultivate
+      it | Comment is free | The Guardian","Description":"Timothy Garton Ash: Across
+      the world, people who have never heard of our leaders dote on our footballers,
+      and the SAS is outshone by Quidditch ... In terms of Britain''s worldwide pulling
+      power, David Beckham is worth 50 Trident missiles. He is our ...","Url":"http:\/\/www.guardian.co.uk\/commentisfree\/2008\/dec\/11\/british-culture-english-language-quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4541692166210958&w=a1460d18,bc7e135f","DisplayUrl":"www.guardian.co.uk\/...\/11\/british-culture-english-language-quidditch","DateTime":"2012-02-15T22:31:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 17:07:53 GMT
+recorded_with: VCR 2.0.0.rc1
