@@ -1,0 +1,775 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22David%20Beckham%22%20football&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5653'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:56 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
+      football"},"Web":{"Total":1140000,"Offset":0,"Results":[{"Title":"David Beckham
+      | Profile | News | Stats - Yahoo! Eurosport UK","Description":"View David Beckham
+      profile on Yahoo! Eurosport UK. Find the latest David Beckham news, stats, photos,
+      titles, clubs, goals and more. ... Global Football News FA Cup League Cup Copa
+      América 2011 Women''s World Cup Euro U21 Early Doors ...","Url":"http:\/\/uk.eurosport.yahoo.com\/football\/david-beckham.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4528592513861133&w=424f2c50,f5515a17","DisplayUrl":"uk.eurosport.yahoo.com\/football\/david-beckham.html","DateTime":"2012-02-18T02:49:00Z"},{"Title":"David
+      Beckham - Wikipedia, the free encyclopedia","Description":"7 David Beckham Academy
+      8 Personal life 8.1 Affair claims 8.2 Legal issues 9 Fame beyond football 10
+      Charitable work 11 Appearances in films 11.1 Bend It Like Beckham ... At the
+      beginning of the 1996–97 season David Beckham was given the ...","Url":"http:\/\/en.wikipedia.org\/wiki\/David_Beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4686862054130466&w=93724fcc,77b530c2","DisplayUrl":"en.wikipedia.org\/wiki\/David_Beckham","DateTime":"2012-02-16T00:55:00Z"},{"Title":"David
+      Beckham Football Greats - YouTube","Description":"David beckham is the most
+      famous soccer player in the world from his fashion, his wife and his real skills","Url":"http:\/\/www.youtube.com\/watch?v=JIodDT-z8Ao","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4747983727233160&w=e968b165,db2b9dbb","DisplayUrl":"www.youtube.com\/watch?v=JIodDT-z8Ao","DateTime":"2012-02-05T04:30:00Z"},{"Title":"David
+      Beckham Football Skills.. - YouTube","Description":"Uploaded by beckfum on Oct
+      11, 2011 No description available. Category: Sports Tags: David Beckham Football
+      Skills Sofia Vergara TV commercial Behind the scenes Soccer trick ...","Url":"http:\/\/www.youtube.com\/watch?v=AKfcXifErdY","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4742464696617394&w=336bed20,3322fc90","DisplayUrl":"www.youtube.com\/watch?v=AKfcXifErdY","DateTime":"2012-02-17T10:48:00Z"},{"Title":"David
+      Beckham | Football | The Guardian","Description":"Video (1min 14sec), 20 Jan
+      2012: At a press conference, David Beckham explains his decision to re-sign
+      with the LA Galaxy football club after the expiry of his original five-year
+      contract ... 6 Jan 2012: Kanye West defends his fashion cred, David ...","Url":"http:\/\/www.guardian.co.uk\/football\/david-beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=5001159160629053&w=bad89d75,97076216","DisplayUrl":"www.guardian.co.uk\/football\/david-beckham","DateTime":"2012-02-18T15:23:00Z"},{"Title":"sports
+      player: david beckham world football players pictures wallpaper images and biography","Description":"david
+      beckham world football players pictures wallpaper images and biography David
+      Robert Joseph http:\/\/www.blogger.com\/img\/blank.gifBeckham, OBE(born 2 May
+      1975)is an English footballer who plays midfield for Los Angeles ...","Url":"http:\/\/sportsgallries.blogspot.com\/2011\/08\/david-beckham-world-football-players.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4549972862829411&w=6bd0d56d,5c0ea9ad","DisplayUrl":"sportsgallries.blogspot.com\/2011\/08\/david-beckham-world-football...","DateTime":"2012-02-08T15:13:00Z"},{"Title":"David
+      Beckham Football Pictures","Description":"Download pictures of David Beckham
+      Football Pictures ... Below are all our David Beckham Football Pictures We also
+      have many pictures of David Beckham. 1 - 24 of 14000 David Beckham < Prev 1
+      Next >","Url":"http:\/\/www.footiewallpapers.com\/David-Beckham\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4909079351856459&w=2e620a6b,e4b00963","DisplayUrl":"www.footiewallpapers.com\/David-Beckham","DateTime":"2012-02-16T04:04:00Z"},{"Title":"David
+      Beckham | Fan-site, News, Forum, Photos, Blog, Pics, Videos, Wallpapers","Description":"David
+      Beckham - Fan site dedicated to David Beckham. All the latest news, videos,
+      wallpapers and photos of the England star.","Url":"http:\/\/davidbeckham.footballfantalk.com\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4998539229593885&w=81f203a8,268abc1c","DisplayUrl":"davidbeckham.footballfantalk.com","DateTime":"2012-02-15T18:41:00Z"},{"Title":"David
+      Beckham - Google+","Description":"David Beckham - Kick a football around for
+      a living, married to Victoria and father to four amazing children... - Footballer
+      - The official Google+ Profile for David Beckham","Url":"https:\/\/plus.google.com\/108846998869637201361","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4525233849892996&w=907dc9de,7e617fe","DisplayUrl":"https:\/\/plus.google.com\/108846998869637201361","DateTime":"2012-02-14T22:44:00Z"},{"Title":"Best
+      Celebrity: David Beckham English Football Player","Description":"David Robert
+      Joseph Beckham, OBE (born 2 May 1975) is an English footballer who plays midfield
+      for Los Angeles Galaxy in Major League Soccer, having ... David Beckham Beach
+      Football","Url":"http:\/\/celebrityandcelebrity.blogspot.com\/2011\/07\/david-beckham-english-football-player.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+football&d=4831851548641720&w=b77e281c,e6a93cd8","DisplayUrl":"celebrityandcelebrity.blogspot.com\/2011\/07\/david-beckham-english...","DateTime":"2012-02-02T02:35:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:56 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22David%20Beckham%22%20basketball&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5984'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:57 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
+      basketball"},"Web":{"Total":526000,"Offset":0,"Results":[{"Title":"Beckham Basketball
+      - YouTube","Description":"Celebrate Originality ''Beckham and Garnett Play Basketball''
+      David Beckham and Kevin Garnett Play Basketball","Url":"http:\/\/www.youtube.com\/watch?v=aCuS7OyLRCs","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4840115072141369&w=9cddedca,b3652093","DisplayUrl":"www.youtube.com\/watch?v=aCuS7OyLRCs","DateTime":"2012-02-17T22:36:00Z"},{"Title":"David
+      Beckham playing basketball with his feet - YouTube","Description":"Uploaded
+      by strongyang on Jun 4, 2009 No description available. Category: Sports Tags:
+      Soccer David Pwned License: Standard YouTube License. 2 likes, 0 dislikes.","Url":"http:\/\/www.youtube.com\/watch?v=STgxb0KmnwI","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4670622772167087&w=48bd07dc,d05f7297","DisplayUrl":"www.youtube.com\/watch?v=STgxb0KmnwI","DateTime":"2012-02-16T12:33:00Z"},{"Title":"Beckham
+      Basketball - Video","Description":"Celebrate Originality ''Beckham and Garnett
+      Play Basketball'' David Beckham and Kevin Garnett Play Basketball","Url":"http:\/\/www.metacafe.com\/watch\/2522500\/beckham_basketball\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4895949644235329&w=ac6d32aa,4729cbbf","DisplayUrl":"www.metacafe.com\/watch\/2522500","DateTime":"2012-02-13T05:50:00Z"},{"Title":"Pictures
+      of David Beckham and Victoria Beckham Cheering on Romeo During Basketball Game","Description":"Pictures
+      of David Beckham and Victoria Beckham Cheering on Romeo During Basketball Game
+      David and Victoria Beckham Cheer on Future Lakers Star Romeo! ... Victoria,
+      David, and Brooklyn Beckham all went to cheer on Romeo during his ...","Url":"http:\/\/www.popsugar.com\/Pictures-David-Beckham-Victoria-Beckham-Cheering-Romeo-During-Basketball-Game-11049005","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4673478926469400&w=f40f248b,5a1e6475","DisplayUrl":"www.popsugar.com\/Pictures-David-Beckham-Victoria-Beckham-Cheering...","DateTime":"2012-02-16T16:43:00Z"},{"Title":"David
+      Beckham takes boys to the basketball - mirror.co.uk","Description":"Doting dad
+      David Beckham took eldest sons Brooklyn, nine and Romeo, five, to a basketball
+      game in their adopted city of Los Angeles at the weekend.","Url":"http:\/\/www.mirror.co.uk\/celebs\/2008\/04\/14\/david-beckham-takes-boys-to-the-basketball-115875-20382558\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4526457901745019&w=4308f2bb,205b6580","DisplayUrl":"www.mirror.co.uk\/celebs\/2008\/04\/14\/david-beckham-takes-boys-to-the...","DateTime":"2012-02-10T09:10:00Z"},{"Title":"He
+      shoots, he scores! David Beckham sinks a hole in one... in a basketball hoop
+      with his golden foot | Mail Online","Description":"He is lauded for his stunning
+      set piece free kicks. But David Beckham showed he can hit the spot in more than
+      one sport as he sunk a football in a basket hoop - with his foot. The amazing
+      shot came as Beckham squared off against NBA giant Kevin Garnett in some footage
+      released by sponsors Adidas","Url":"http:\/\/www.dailymail.co.uk\/tvshowbiz\/article-1157583\/He-shoots-scores-David-Beckham-sinks-hole--basketball-hoop-golden-foot.html","DisplayUrl":"www.dailymail.co.uk\/tvshowbiz\/article-1157583","DateTime":"2012-02-15T00:23:00Z"},{"Title":"David
+      Beckham takes Gordon Ramsay to the basketball... but they spend most of the
+      match comparing their Rolexes | Mail Online","Description":"Since moving to
+      California three years ago, David Beckham has become an avid fan of local basketball
+      team the Los Angeles Lakers. But as he introduced fellow Brit Gordon Ramsay
+      to the game at the Staples Center yesterday, it looked like the pair were more
+      interested in comparing their expensive","Url":"http:\/\/www.dailymail.co.uk\/tvshowbiz\/article-1265310\/David-Beckham-takes-Gordon-Ramsay-basketball--spend-match-comparing-Rolexes.html","DisplayUrl":"www.dailymail.co.uk\/tvshowbiz\/article-1265310\/David-Beckham-takes...","DateTime":"2012-02-12T15:03:00Z"},{"Title":"David
+      Beckham Photos - New Photos","Description":"David Beckham outside the pitch
+      photos that are new to the gallery will appear here. So check here regularly
+      to ... David Beckham will be global brand for samsung May 04 2011 Date: 07\/03\/2011
+      Size: 1 item David Beckham at NBA Basketball ...","Url":"http:\/\/davidbeckham.fans-online.com\/photos\/today\/?g2_page=2","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4514212965516018&w=6aa9ad38,77421cc5","DisplayUrl":"davidbeckham.fans-online.com\/photos\/today\/?g2_page=2","DateTime":"2012-02-17T23:24:00Z"},{"Title":"David
+      Beckham - Wikipedia, the free encyclopedia","Description":"At the beginning
+      of the 1996–97 season David Beckham was given the number 10 shirt that had most
+      recently been worn by Mark Hughes. On 17 August 1996 (the first day of ... Baseball,
+      basketball, American football, they''ve been around. But I ...","Url":"http:\/\/en.wikipedia.org\/wiki\/David_Beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4686862054130466&w=93724fcc,77b530c2","DisplayUrl":"en.wikipedia.org\/wiki\/David_Beckham","DateTime":"2012-02-16T00:55:00Z"},{"Title":"David
+      Beckham | Access Hollywood - Celebrity News, Photos & Videos","Description":"David
+      Beckham arrives for an England soccer team training session AP David Beckham
+      waves during the closing ceremony for the 2008 Beijing Olympics AP David Beckham
+      watches the men’s gold medal basketball game between the USA and ...","Url":"http:\/\/www.accesshollywood.com\/david-beckham","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+basketball&d=4708190865458047&w=df90421f,681ca1d5","DisplayUrl":"www.accesshollywood.com\/david-beckham","DateTime":"2012-02-17T23:03:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:57 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22David%20Beckham%22%20quidditch&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6822'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:57 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"David Beckham\"
+      quidditch"},"Web":{"Total":13500,"Offset":0,"Results":[{"Title":"David Beckham:
+      Soccer Star Ready to Get His Harry Potter on for Son''s Birthday | Bleacher
+      Report","Description":"David Beckham is a wealthy man with the power to buy
+      and sell anything in the world, regardless of what it might be... ... The only
+      thing that would make this day better for Brooklyn is if Becks hired two Quidditch
+      teams to play a game right in front ...","Url":"http:\/\/bleacherreport.com\/articles\/837421-david-beckham-soccer-star-ready-to-get-his-harry-potter-on-for-sons-birthday","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=5044804621570114&w=4ef3d36a,6b5d748d","DisplayUrl":"bleacherreport.com\/articles\/837421-david-beckham-soccer-star-ready...","DateTime":"2012-02-16T16:11:00Z"},{"Title":"What
+      is Harry Potter''s Jersey number? | ChaCha","Description":"What is Harry Potter''s
+      Jersey number? ChaCha Answer: Harry Potter''s Quidditch jersey number is 7,
+      the same as David Beckham''s England... ... How old is harry potter? Harry Potters
+      age changes throughout the series but at the en... What is a ...","Url":"http:\/\/www.chacha.com\/question\/what-is-harry-potter%27s-jersey-number","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4833316130981110&w=c12c0d1,4c4a6100","DisplayUrl":"www.chacha.com\/question\/what-is-harry-potter%27s-jersey-number","DateTime":"2012-01-14T03:48:00Z"},{"Title":"Harry
+      Potter Papercraft: Quidditch Field - Quidditch - Zimbio","Description":"Part
+      of the release included a paper model of the Quidditch Field at Hogwarts. The
+      Quidditch Field is a papercraft gem that may have been overlooked by many people
+      in ... See David Beckham''s H&M ...","Url":"http:\/\/www.zimbio.com\/Quidditch\/articles\/Hb2_waaJILe\/Harry+Potter+Papercraft+Quidditch+Field","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4701490707107523&w=2901b727,949b5504","DisplayUrl":"www.zimbio.com\/Quidditch\/articles\/Hb2_waaJILe\/Harry+Potter...","DateTime":"2012-01-04T03:53:00Z"},{"Title":"What
+      is Harry Potter''s number on quidditch? | ChaCha","Description":"What is Harry
+      Potter''s number on quidditch? ChaCha Answer: Harry Potter''s Quidditch jersey
+      number is 7, the same as David Beckham''s E... ... Harry potter? Harry Potter
+      Facts: Sirius Black''s tattoos are borrowed from ... What did Harry Potter eat
+      ...","Url":"http:\/\/www.chacha.com\/question\/what-is-harry-potter%27s-number-on-quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4742456107074711&w=d305be29,d59befed","DisplayUrl":"www.chacha.com\/question\/what-is-harry-potter%27s-number-on-quidditch","DateTime":"2012-02-16T16:02:00Z"},{"Title":"Harry
+      Potter: Quidditch World Cup Cheats, Codes, Cheat Codes, Glitches, Walkthrough,
+      Guide, Achievements, FAQs for PS2","Description":"Take to the air in the first
+      game that allows players to fully experience the magical speed, power, and competition
+      of Quidditch, the favorite sport of witches and ... David Beckham Soccer","Url":"http:\/\/cheatcodes.com\/harry-potter-quidditch-world-cup-ps2\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4954120680901716&w=f660b374,3e387278","DisplayUrl":"cheatcodes.com\/harry-potter-quidditch-world-cup-ps2","DateTime":"2012-02-17T00:28:00Z"},{"Title":"It''s
+      Quidditch time! (Waka Waka) - YouTube","Description":"who needs David Beckham,Frank
+      Lampard and John Terry when you have got Oliver Wood,Harry Potter and The Weasley
+      Twins ... @breannerocks09 they are all from hp. those scenes are from the Quidditch
+      World Cup in Goblet of Fire. The guy is ...","Url":"http:\/\/www.youtube.com\/watch?v=xaqCMxfOzp8","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4988287142856931&w=26f9709c,c196a0e0","DisplayUrl":"www.youtube.com\/watch?v=xaqCMxfOzp8","DateTime":"2012-02-16T18:33:00Z"},{"Title":"VICTORIA
+      AND DAVID BECKHAM PLAN MAGICAL BIRTHDAY AT HOGWARTS FOR BROOKLYN","Description":"Victoria
+      and David Beckham plan magical birthday at Hogwarts for Brooklyn News about
+      Victoria Beckham ... \"He will be blown away to be in the place where Harry
+      and his friends learned to play Quidditch and cast spells. There is nothing
+      like ...","Url":"http:\/\/www.metrolyrics.com\/2011-victoria-and-david-beckham-plan-magical-birthday-at-hogwarts-for-brooklyn-news.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4964115063376553&w=c0047cf1,f1e4e626","DisplayUrl":"www.metrolyrics.com\/2011-victoria-and-david-beckham-plan-magical...","DateTime":"2012-02-16T04:35:00Z"},{"Title":"What
+      team did Viktor Krum play with in The Quidditch World Cup","Description":"Which
+      country does Viktor Krum play for during the Quidditch World Cup? Bulgaria What
+      team does becks play for in the world cup? David Beckham played for England.
+      What team will drogba play for in the world cup? Chelsea What world cup team
+      does swarez ...","Url":"http:\/\/wiki.answers.com\/Q\/What_team_did_Viktor_Krum_play_with_in_The_Quidditch_World_Cup","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4555994397346042&w=5dd539e3,be88841","DisplayUrl":"wiki.answers.com\/Q\/What_team_did_Viktor_Krum_play_with_in_The...","DateTime":"2012-02-15T01:08:00Z"},{"Title":"Excéntrico
+      regalo de David Beckham para su hijo (Foto)","Description":"David Beckham planea
+      todo un ’cumple mágico’ para su hijo Brooklyn, que cumplirá 13 años el próximo
+      mes de marzo. El futbolista pretende alquilar el castillo de ... Perderá la
+      cabeza cuando esté en el mismo lugar donde Harry y sus ...","Url":"http:\/\/www.lapatilla.com\/site\/2011\/09\/03\/excentrico-regalo-de-david-beckham-para-su-hijo-foto\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4622798324892559&w=f4a797ec,2a3bbf25","DisplayUrl":"www.lapatilla.com\/site\/2011\/09\/03\/excentrico-regalo-de-david...","DateTime":"2012-02-17T13:53:00Z"},{"Title":"Timothy
+      Garton Ash: What Britain still has in spades is cultural power. Let''s cultivate
+      it | Comment is free | The Guardian","Description":"Timothy Garton Ash: Across
+      the world, people who have never heard of our leaders dote on our footballers,
+      and the SAS is outshone by Quidditch ... In terms of Britain''s worldwide pulling
+      power, David Beckham is worth 50 Trident missiles. He is our ...","Url":"http:\/\/www.guardian.co.uk\/commentisfree\/2008\/dec\/11\/british-culture-english-language-quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22david+beckham%22+quidditch&d=4541692166210958&w=a1460d18,bc7e135f","DisplayUrl":"www.guardian.co.uk\/...\/11\/british-culture-english-language-quidditch","DateTime":"2012-02-15T22:31:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:57 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Harry%20Potter%22%20football&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6618'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:58 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
+      football"},"Web":{"Total":2740000,"Offset":0,"Results":[{"Title":"Football -
+      Harry Potter Wiki","Description":"In Harry Potter and the Philosopher''s Stone,
+      Dean Thomas yells for a red card when Harry Potter was almost knocked off his
+      broom in a Quidditch match, which is a serious offence in football. Because
+      \"football\" means something different in the United States ...","Url":"http:\/\/harrypotter.wikia.com\/wiki\/Football","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4749383884081010&w=e6817b15,da62e3f4","DisplayUrl":"harrypotter.wikia.com\/wiki\/Football","DateTime":"2012-02-12T17:37:00Z"},{"Title":"Harry
+      Potter Gryffindor Football Tee - 277532","Description":"ShopWiki has 29 results
+      for Harry Potter Gryffindor Football Tee - 277532, including Harry Potter Gryffindor
+      Crest Women''s Fitted T-Shirt, Harry Potter Gryffindor Tee, Harry Potter Gryffindor
+      Potter Women''s Fitted T-Shirt from Warner Bros., and Harry ...","Url":"http:\/\/www.shopwiki.com\/l\/Harry-Potter-Gryffindor-Football-Tee-%7E-277532","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4772946079385549&w=1889fa4d,dca4eea","DisplayUrl":"www.shopwiki.com\/l\/Harry-Potter-Gryffindor-Football-Tee-~-277532","DateTime":"2012-02-16T22:20:00Z"},{"Title":"Ahmed
+      Bouhedda, 40. Harry Potter, Football, Indépendant, Boggle, Pêcher, Rangers F.C.,
+      Phil Collins, Le Marchand de sable - Sophie..., Cuisine ...","Description":"Harry
+      Potter, Football, Indépendant, Boggle, Pêcher, Rangers F.C., Phil Collins, Le
+      Marchand de sable - Sophie..., Cuisine antillaise, Arbitrage Football, Translation,
+      Comédies romantiques. Ahmed Bouhedda, 40: Ahmed: bienvenue tout le monde .","Url":"http:\/\/badoo.com\/0233820140\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4531800852595482&w=9da8f210,4b8c75e0","DisplayUrl":"badoo.com\/0233820140","DateTime":"2012-02-17T16:46:00Z"},{"Title":"Harry
+      Potter Football – Part 1 – Characters. - Football Blog - TheFootballAsylum |
+      The Best Football Blog","Description":"For an instance, I love the Harry Potter
+      series(books & movies) like anything. So one fine day,bored of my studies, i
+      thought what if both Football & Harry Potter are interrelated with each other.
+      So here i am, bringing to you Harry Potter Football. In ...","Url":"http:\/\/thefootballasylum.com\/premier-league\/harry-potter-football-part-1-characters","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=5001068962120452&w=1504d3f5,55cc5254","DisplayUrl":"thefootballasylum.com\/premier-league\/harry-potter-football-part-1...","DateTime":"2012-02-16T01:24:00Z"},{"Title":"Harry
+      Potter Football - Part 3 - Deathly Hallows","Description":"Harry Potter Football
+      – Part 3 – Deathly Hallows ... To read Part 1 of this series click here and
+      for Part 2 click here Drop in your Comments. Be in Touch with us on Facebook
+      page “Football Asylum“ Twitter : @football ...","Url":"http:\/\/thefootballasylum.com\/featured\/harry-potter-football-part-3-deathly-hallows","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4658682771604201&w=bc862e7b,a80efdd6","DisplayUrl":"thefootballasylum.com\/featured\/harry-potter-football-part-3...","DateTime":"2012-02-15T00:27:00Z"},{"Title":"Cardgame-club.it:
+      Cardgame-Club: carte collezionabili Yu-Gi-Oh!, Pokémon, VS System, Duel Masters,
+      Magic the Gathering, Harry Potter, Football ...","Description":"Giochi di carte
+      collezionabili, Yu-Gi-Oh!, Pokémon, VS System, Duel Masters, Magic the Gathering,
+      Harry Potter, Football Champions, Star Wars: tutte le carte acquistabili online,
+      vasto catalogo ...","Url":"http:\/\/dawhois.com\/site\/cardgame-club.it.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4642520804819529&w=42fbfd53,ed22387f","DisplayUrl":"dawhois.com\/site\/cardgame-club.it.html","DateTime":"2012-02-13T09:29:00Z"},{"Title":"Justin
+      Bieber, Twilight, Harry Potter ou le football? | Facebook","Description":"The
+      Big Challenge a écrit un article intitulé Justin Bieber, Twilight, Harry Potter
+      ou le football? Lisez cet article dans son intégralité ici.","Url":"http:\/\/fr-fr.facebook.com\/note.php?note_id=173639592654108","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4679951450245793&w=ea3b620f,b5eab19a","DisplayUrl":"fr-fr.facebook.com\/note.php?note_id=173639592654108","DateTime":"2012-02-16T22:46:00Z"},{"Title":"Shippin''
+      Out July 10-16: NCAA Football 12, Deathly Hallows Part 2 - PlayStation 3 News
+      at GameSpot","Description":"New release slate led by latest college gridiron
+      game, Harry Potter film tie-in; UFC Personal Trainer: Ultimate Fitness System
+      for Wii and Ms. ''Splosion Man also out. First out of the tunnel this week is
+      EA Sports'' NCAA Football 12 for the Xbox 360 and PlayStation 3, which has former
+      University of","Url":"http:\/\/www.gamespot.com\/ps3\/action\/harry-potter-and-the-deathly-hallows-part-2\/news\/6323045\/shippin-out-july-10-16-ncaa-football-12-deathly-hallows-part-2","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4528536679416173&w=af9bdf32,422e280","DisplayUrl":"www.gamespot.com\/ps3\/action\/harry-potter-and-the-deathly-hallows...","DateTime":"2012-02-10T00:16:00Z"},{"Title":"Best
+      celebration ever in football \/ Soccer YO MAMA SO FAT! Harry Potter - YouTube","Description":"I
+      talk about a lot of stuff in this video. A kid gets in a fight, a bear attack,
+      and the Greatest celebration in football or soccer that I''ve ever seen! Enjoy
+      the video ...","Url":"http:\/\/www.youtube.com\/watch?v=dHIp6mRx7kk","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4751527076299889&w=1426f891,bc8f707f","DisplayUrl":"www.youtube.com\/watch?v=dHIp6mRx7kk","DateTime":"2012-02-17T08:30:00Z"},{"Title":"Games
+      launching this week - Harry Potter, NCAA Football 12 - National Console Gaming
+      | Examiner.com","Description":"Harry Potter and the Deathly Hallows Part 2 NCAA
+      Football 12 Tiger Woods PGA Tour 12: The Masters PS Move Bundle PSN Assassin’s
+      Creed: Brotherhood PS minis Mighty Flip Champs! DX PSN Demos Catherine Dead
+      Nation PixelJunk ...","Url":"http:\/\/www.examiner.com\/console-gaming-in-national\/games-launching-this-week-harry-potter-ncaa-football-12","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+football&d=4955795714475859&w=9c72aa19,27b83db0","DisplayUrl":"www.examiner.com\/console-gaming-in-national\/games-launching-this...","DateTime":"2012-01-02T16:51:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:58 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Harry%20Potter%22%20basketball&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6276'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:58 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
+      basketball"},"Web":{"Total":2230000,"Offset":0,"Results":[{"Title":"Harry Potter
+      Basketball Night « aaronbair","Description":"So, my teacher put me in charge
+      of a team of other students and we were assigned to market and plan an event
+      for a girls basketball game. So, we decided what could have been better than
+      a Harry Potter themed basketball game. Now, just ...","Url":"http:\/\/aaronbair.wordpress.com\/2012\/02\/03\/harry-potter-basketball-night\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4613327912110588&w=7693b3e7,20f87850","DisplayUrl":"aaronbair.wordpress.com\/2012\/02\/03\/harry-potter-basketball-night","DateTime":"2012-02-09T07:07:00Z"},{"Title":"Dumbledore
+      could have killed Voldemort - Harry Potter discussion forum for movies, books,
+      and more! - The Leaky Lounge","Description":"Harry Potter discussion forum for
+      movies, books, and more! - The Leaky Lounge: Dumbledore could have killed Voldemort
+      - Harry Potter discussion forum for movies ... Joined: 27-August 06 Location:
+      Iowa, USA Interests: Harry Potter, Boys, Harry ...","Url":"http:\/\/www.leakylounge.com\/index.php?showtopic=36222","DisplayUrl":"www.leakylounge.com\/index.php?showtopic=36222","DateTime":"2012-02-09T02:28:00Z"},{"Title":"Harry
+      Potter: Quidditch World Cup Review for GameCube: Flying Broomsticks + Soccer
+      + Basketball = Quidditch - GameFAQs","Description":"For Harry Potter: Quidditch
+      World Cup on the GameCube, a reader review titled \"Flying Broomsticks + Soccer
+      + Basketball = Quidditch\". ... \"Flying Broomsticks + Soccer + Basketball =
+      Quidditch\" Introduction: Qudditch, the famous sport of ...","Url":"http:\/\/www.gamefaqs.com\/gamecube\/914743-harry-potter-quidditch-world-cup\/reviews\/review-65947","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4590891012327012&w=c677cbb9,690badb3","DisplayUrl":"www.gamefaqs.com\/gamecube\/914743-harry-potter-quidditch-world-cup\/...","DateTime":"2012-02-12T01:41:00Z"},{"Title":"The
+      Scoop - harry-potter","Description":"... s 3-D biopic won''t be the only place
+      you can see the Beebs on the big screen. Bieber is teaming up with co-star Mark
+      Wahlberg for an as-yet-untitled street basketball drama. ... • A sneak peek
+      at a scene from \"Harry Potter and the Deathly ...","Url":"http:\/\/scoop.today.msnbc.msn.com\/harry-potter","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4607147462100862&w=cd75835d,5f5c9d2f","DisplayUrl":"scoop.today.msnbc.msn.com\/harry-potter","DateTime":"2012-02-06T05:23:00Z"},{"Title":"Y8
+      Basketball - Play game Basketball at Love Y8.com","Description":"447 of 497
+      persons voted like for Basketball! Add game to your web or blog! Tags: basketball,
+      basketball If you liked Y8 Basketball, you may also enjoy... ... 03 Leopard
+      Print Fashion 04 Moko Moko 05 Quadrato 06 Galaxy Guard 07 Harry Potter ...","Url":"http:\/\/www.lovey8.com\/Basketball.y8","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4765253789289989&w=f3800ab5,286d0cb3","DisplayUrl":"www.lovey8.com\/Basketball.y8","DateTime":"2012-02-10T19:18:00Z"},{"Title":"BBC
+      News - Harry Potter: Quidditch for Muggles","Description":"\"But to an external
+      observer watching a basketball game for the first time, that might look crazy
+      too,\" she says, without a hint of irony. For those who have managed to escape
+      all things Harry Potter, Quidditch is the fictional sport popularised in JK
+      ...","Url":"http:\/\/www.bbc.co.uk\/news\/world-us-canada-12044924","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=5028221756769876&w=d61c330d,56b838c2","DisplayUrl":"www.bbc.co.uk\/news\/world-us-canada-12044924","DateTime":"2012-02-16T01:28:00Z"},{"Title":"Tom
+      Felton: Harry Potter Movies'' Draco Malfoy - Yahoo! Voices - voices.yahoo.com","Description":"It
+      was in 2001 that Felton started his role as Draco Malfoy in the Harry Potter
+      movies. Aside from his acting, Felton is an avid sportsman. He enjoys taking
+      part in soccer, basketball, cricket, tennis and even ice skating to name a few
+      of the sports that ...","Url":"http:\/\/voices.yahoo.com\/article\/311342\/tom_felton_harry_potter_movies_draco.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=5033775136048989&w=55496d23,1f0166da","DisplayUrl":"voices.yahoo.com\/article\/311342\/tom_felton_harry_potter_movies...","DateTime":"2012-01-28T10:16:00Z"},{"Title":"Basketball
+      - Brickipedia, the LEGO Wiki","Description":"Harry Potter Kingdoms Community
+      Editors Chat User awards Brickipedian of the Month Reviewer of the Month Customizer
+      of the Month Rating Overview Forums ... LEGO Basketball was a subtheme of Sports
+      that ran from 2003 to 2004 with sets ...","Url":"http:\/\/lego.wikia.com\/wiki\/Basketball","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4527488708116674&w=652f7c5c,1f8050b","DisplayUrl":"lego.wikia.com\/wiki\/Basketball","DateTime":"2012-02-14T15:23:00Z"},{"Title":"Harry
+      Potter Questions, Answers, News, Images and Info | ChaCha","Description":"Harry
+      Potter is the hero and main figure of the Harry Potter series by J.K. Rowling.
+      Though a fictional character, Harry is one of the most popular icons in literature
+      and ... Basketball Football Golf Hockey Motorsports Olympics Scores Soccer Tennis","Url":"http:\/\/www.chacha.com\/topic\/harry-potter","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4544488187494829&w=c70fff8,6d0614b0","DisplayUrl":"www.chacha.com\/topic\/harry-potter","DateTime":"2012-02-12T04:38:00Z"},{"Title":"PartyStore.com:
+      Licensed Themes: Harry Potter party supplies","Description":"All Sports Party
+      Baseball Party Basketball Party Bowling Party Cheerleader Party Football Party
+      NASCAR Party NFL Party Zone Soccer Party ... Harry Potter \"A Magical World\"
+      party supplies Harry Potter TM & Warner Bros. Entertainment Inc.","Url":"http:\/\/www.partystore.com\/catalog\/Harry_Potter-20-1.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+basketball&d=4772842997942181&w=1fd5b8ec,a81efcf4","DisplayUrl":"www.partystore.com\/catalog\/Harry_Potter-20-1.html","DateTime":"2012-02-08T22:41:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:58 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Harry%20Potter%22%20quidditch&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5406'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:59 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Harry Potter\"
+      quidditch"},"Web":{"Total":437000,"Offset":0,"Results":[{"Title":"Quidditch
+      - Wikipedia, the free encyclopedia","Description":"Quidditch is a fictional
+      sport in the story of Harry Potter developed by British author J. K. Rowling
+      for the Harry Potter series of novels. It is described as an extremely rough,
+      but very popular, semi-contact sport, played by wizards and witches around the
+      world. Matches are played between two teams of seven players riding flying ...","Url":"http:\/\/en.wikipedia.org\/wiki\/Quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4703586646230742&w=ef78d891,fa6cb7b3","DisplayUrl":"en.wikipedia.org\/wiki\/Quidditch","DateTime":"2012-02-16T04:28:00Z"},{"Title":"Quidditch
+      - Harry Potter Wiki","Description":"Harry Potter and the Philosopher''s Stone
+      Harry Potter and the Philosopher''s Stone (film) Harry Potte ... Quidditch is
+      a wizarding sport played on broomsticks. It is the most popular game among wizards
+      and witches, and, according to Rubeus Hagrid, the equivalent to ...","Url":"http:\/\/harrypotter.wikia.com\/wiki\/Quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4942919397082782&w=a0c18c9b,7f3a548f","DisplayUrl":"harrypotter.wikia.com\/wiki\/Quidditch","DateTime":"2012-02-15T19:50:00Z"},{"Title":"Harry
+      Potter: Quidditch - YouTube","Description":"A Harry Potter video featuring the
+      wizard sport of Quidditch, and music by the band, Good Charlotte.","Url":"http:\/\/www.youtube.com\/watch?v=mSZryVBd_3Q","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4940454092866993&w=e1e026be,7f9d0285","DisplayUrl":"www.youtube.com\/watch?v=mSZryVBd_3Q","DateTime":"2012-02-15T14:14:00Z"},{"Title":"Harry
+      Potter:Quidditch - YouTube","Description":"Uploaded by LottyLott12 on Nov 21,
+      2007 Harry playing some quidditch with music Category: Entertainment Tags: harry
+      potter quidditch gryffindor slytherin hufflepuff ravenclaw ...","Url":"http:\/\/www.youtube.com\/watch?v=lQn14nt-adM","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4916526833730351&w=a7798794,ee05267b","DisplayUrl":"www.youtube.com\/watch?v=lQn14nt-adM","DateTime":"2012-02-15T04:46:00Z"},{"Title":"Harry
+      Potter Quidditch | Images & Photos |Posters","Description":"Posters from Quidditch
+      and Harry Potter. ... Harrypotterwallart.com licensed products are manufactured
+      and distributed with the permission of Warner Bros. If you should have any questions
+      about the authenticity of our products or our license please ...","Url":"http:\/\/www.harrypotterwallart.com\/quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4678572758925666&w=77bb551e,d22b2b08","DisplayUrl":"www.harrypotterwallart.com\/quidditch","DateTime":"2012-02-13T21:39:00Z"},{"Title":"Harry
+      Potter | Quidditch Tryouts","Description":"High Scores High Scores High Scores
+      High Scores High Scores High Scores High Scores High Scores Harry Potter Publishing
+      Rights J.K.R. 2005 Privacy Policy | Terms of Use","Url":"http:\/\/harrypotter.warnerbros.co.uk\/games\/quidditch\/tryouts.html","DisplayUrl":"harrypotter.warnerbros.co.uk\/games\/quidditch\/tryouts.html","DateTime":"2012-02-15T19:49:00Z"},{"Title":"Harry
+      Potter Quidditch Game","Description":"Fly your broomstick and play Quidditch
+      with Harry Potter. The first player to 50 points wins!...","Url":"http:\/\/www.surfnetkids.com\/games\/broomsticks\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=5032095808095847&w=7520d106,694f9fb2","DisplayUrl":"www.surfnetkids.com\/games\/broomsticks","DateTime":"2012-02-16T14:21:00Z"},{"Title":"Harry
+      Potter: Quidditch World Cup - Wikipedia, the free encyclopedia","Description":"Harry
+      Potter: Quidditch World Cup is a 2003 video game produced by EA Games and EA
+      Sports that features the fictional sport of Quidditch from the Harry Potter
+      franchise.","Url":"http:\/\/en.wikipedia.org\/wiki\/QWC","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4865137539943356&w=5ae01e84,f4fda3b2","DisplayUrl":"en.wikipedia.org\/wiki\/QWC","DateTime":"2012-02-14T09:26:00Z"},{"Title":"Harry
+      Potter - Seeker Practice","Description":"The official site of Harry Potter!
+      Movie trailers, film clips, behind the scenes at Hogwarts. J.K Rowlings'' wizards
+      and witches Harry Potter, Ron Weasley, Hermione Granger, Hagrid, Dumbledore
+      and Lord Voldemort brought to life in Warner Bros. feature ...","Url":"http:\/\/harrypotter.warnerbros.com\/game\/game4.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4624018081907399&w=af31f184,85680ef0","DisplayUrl":"harrypotter.warnerbros.com\/game\/game4.html","DateTime":"2012-02-14T22:53:00Z"},{"Title":"Harry-Potter
+      Quidditch at Flonga","Description":"Play Harry-Potter Quidditch and other flash
+      games at flonga.com. ... Welcome to Flonga Games! All the games on our site
+      are FREE to play and we launch new games every day. You can play thousands of
+      free online games including action, life ...","Url":"http:\/\/www.flonga.com\/play\/harry-potter-quidditch.htm","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22harry+potter%22+quidditch&d=4995511270507367&w=bd9cf2e5,bef0e0c0","DisplayUrl":"www.flonga.com\/play\/harry-potter-quidditch.htm","DateTime":"2012-02-12T01:47:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:59 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Jeremy%20Lin%22%20football&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6875'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:52:59 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Jeremy Lin\"
+      football"},"Web":{"Total":1370000,"Offset":0,"Results":[{"Title":"Jeremy Lin
+      dominates flag football","Description":"Check out New York Knicks point guard
+      Lin dominating at Harvard in some flag football. Is there anything that this
+      guy can''t do? We''ll have to ask Chuck Norris that ... You might be fed up
+      of hearing about Jeremy Lin right about now. However, the ...","Url":"http:\/\/www.asternwarning.com\/201202091088\/articles\/nba\/jeremy-lin-dominates-flag-football.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4651475817268036&w=906013df,43d653f6","DisplayUrl":"www.asternwarning.com\/...\/nba\/jeremy-lin-dominates-flag-football.html","DateTime":"2012-02-14T08:23:00Z"},{"Title":"Is
+      Victor Cruz the Jeremy Lin of Football and the NFL? Fan''s View - Yahoo!","Description":"Read
+      ''Is Victor Cruz the Jeremy Lin of Football and the NFL? Fan''s View'' on Yahoo!.
+      Living in the New York City area, two undrafted free agents have had huge impacts
+      on local professional sports teams lately. Jeremy Lin is currently the hottest
+      ...","Url":"http:\/\/uk.news.yahoo.com\/victor-cruz-jeremy-lin-football-nfl-fans-view-142000287--nfl.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=5012317473670411&w=9475764d,4f868516","DisplayUrl":"uk.news.yahoo.com\/victor-cruz-jeremy-lin-football-nfl-fans-view...","DateTime":"2012-02-15T18:16:00Z"},{"Title":"Is
+      Victor Cruz the Jeremy Lin of Football and the NFL? Fan''s View - NFL - Yahoo!
+      Sports","Description":"Living in the New York City area, two undrafted free
+      agents have had huge impacts on local professional sports teams lately. Jeremy
+      Lin is currently the hottest sports topic in New York right now. Lin has led
+      the New York Knicks to three straight wins, averaging 25.3 points and 8.3 assists
+      per game","Url":"http:\/\/sports.yahoo.com\/nfl\/news?slug=ycn-10948894","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4873023111892259&w=ec2dd7bf,1982864","DisplayUrl":"sports.yahoo.com\/nfl\/news?slug=ycn-10948894","DateTime":"2012-02-15T09:17:00Z"},{"Title":"D
+      Wizzle''s World: Jeremy Lin showing his skills on the football field","Description":"Who
+      knew Jeremy Lin could play football as well? Perhaps he could have been a good
+      WR with his speed and height. Check out these highlights of Jeremy in a flag
+      football game at Harvard. Although it''s only flag football, I am still impressed
+      with his ...","Url":"http:\/\/dwizzlesworld.blogspot.com\/2012\/02\/jeremy-lin-showing-his-skills-on.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4724108002330549&w=af5590e7,8aeb9bcc","DisplayUrl":"dwizzlesworld.blogspot.com\/2012\/02\/jeremy-lin-showing-his-skills...","DateTime":"2012-02-18T02:58:00Z"},{"Title":"Video:
+      Jeremy Lin''s talents extended to flag football at Harvard | Yardbarker.com","Description":"In
+      case that whole NBA thing doesn''t work out, the Knicks'' Jeremy Lin always
+      has a career in a flag football to look forward to. When the 6-foot-3 guard
+      wasn''t tearing up the Ivy League in basketball b","Url":"http:\/\/www.yardbarker.com\/nba\/articles\/msn\/jeremy_lins_talents_extended_to_flag_football_at_harvard_video\/9902788","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4762225844421094&w=a488747f,c803a4bb","DisplayUrl":"www.yardbarker.com\/nba\/articles\/msn\/jeremy_lins_talents_extended...","DateTime":"2012-02-17T05:42:00Z"},{"Title":"Jeremy
+      Lin was also a flag football phenom at Harvard","Description":"Deadspin unearthed
+      some video of Jeremy Lin playing flag football, back in 2009. It''s from the
+      Harvard intramural flag football championship, between Winthrop House and Leverett
+      House. Lin is a pass-catching machine, and he''s no stranger to the end zone.
+      And he even throws something what we''ll","Url":"http:\/\/content.usatoday.com\/communities\/gameon\/post\/2012\/02\/jeremy-lin-was-also-a-flag-football-phenom\/1","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4628278695167569&w=b763ad3d,c567035d","DisplayUrl":"content.usatoday.com\/...\/jeremy-lin-was-also-a-flag-football-phenom\/1","DateTime":"2012-02-17T18:09:00Z"},{"Title":"Twitter
+      \/ Eye on Football: If Jeremy Lin is the NBA''s ...","Description":"If Jeremy
+      Lin is the NBA''s Tim Tebow, he''s about to run into the playoff version of
+      Tom Brady tonight in Kobe.","Url":"http:\/\/twitter.com\/EyeOnNFL\/status\/168040808807809024","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4547456010289658&w=46797018,c30e3c35","DisplayUrl":"twitter.com\/EyeOnNFL\/status\/168040808807809024","DateTime":"2012-02-14T06:47:00Z"},{"Title":"Jeremy
+      Lin was also a flag football phenom - Sports News from USA Today","Description":"Deadspin
+      unearthed some video of Jeremy Lin playing flag football, back in 2009. It’s
+      from the Harvard intramural flag football championship, between Winthrop House
+      and Leverett House. Lin is a pass-catching machine, and he’s no stranger to
+      the end zone. And he even throws something what we’ll","Url":"http:\/\/tucsoncitizen.com\/usa-today-sports\/2012\/02\/13\/jeremy-lin-was-also-a-flag-football-phenom\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=5031945483126971&w=879a17e8,8454dca6","DisplayUrl":"tucsoncitizen.com\/...\/02\/13\/jeremy-lin-was-also-a-flag-football-phenom","DateTime":"2012-02-16T14:16:00Z"},{"Title":"Fast
+      Pitch with Lauren Strec: Sports Illustrated Women, Mayweather’s Racist Tweet
+      To Jeremy Lin, Football Coach Nude on Facebook - The Clubhouse ...","Description":"Fast
+      Pitch with Lauren Strec: Sports Illustrated Women, Mayweather’s Racist Tweet
+      To Jeremy Lin, Football Coach Nude on Facebook Lauren Strec pitches out previews
+      to articles that can be found at www.RantSports.com\/clubhouse. The 10 ...","Url":"http:\/\/www.rantsports.com\/clubhouse\/2012\/02\/14\/fast-pitch-with-lauren-strec-sports-illustrated-women-mayweathers-racist-tweet-to-jeremy-lin-football-coach-nude-on-facebook\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4800176173942816&w=22976e02,c54eb967","DisplayUrl":"www.rantsports.com\/clubhouse\/2012\/02\/14\/fast-pitch-with-lauren...","DateTime":"2012-02-16T04:46:00Z"},{"Title":"Jeremy
+      Lin - New York Knicks - NBA - Yahoo! Sports","Description":"The latest stats,
+      facts, news and notes on Jeremy Lin of the New York Knicks ... YAHOO! SPORTS
+      NFL MLB NBA NHL Golf NASCAR Tennis More Yahoo! Sports » NCAA Football NCAA Basketball
+      NCAA Women''s Basketball World Soccer","Url":"http:\/\/sports.yahoo.com\/nba\/players\/4795","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+football&d=4625345231521316&w=7686781,d3bbcf","DisplayUrl":"sports.yahoo.com\/nba\/players\/4795","DateTime":"2012-02-17T21:13:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:52:59 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Jeremy%20Lin%22%20basketball&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5867'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:53:00 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Jeremy Lin\"
+      basketball"},"Web":{"Total":1100000,"Offset":0,"Results":[{"Title":"Jeremy Lin
+      - Wikipedia, the free encyclopedia","Description":"Jeremy Shu-How Lin (born
+      August 23, 1988) is an American professional basketball player with the New
+      York Knicks of the National Basketball Association (NBA). After receiving no
+      athletic scholarship offers out of high school and being undrafted out of college,
+      the Harvard University graduate reached a partially guaranteed contract ...","Url":"http:\/\/en.wikipedia.org\/wiki\/Jeremy_Lin","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4616905624650526&w=6eeb04f6,e05b3932","DisplayUrl":"en.wikipedia.org\/wiki\/Jeremy_Lin","DateTime":"2012-02-16T06:24:00Z"},{"Title":"Jeremy
+      Lin Basketball Academy camp - YouTube","Description":"Jeremy Lin Basketball
+      Academy camp http:\/\/www.channelapa.com\/2011\/06\/2011-jeremy-lin-basketball-academy.html
+      Connect with us on YouTube: http:\/\/www.youtube.com\/channelAPA ...","Url":"http:\/\/www.youtube.com\/watch?v=7NK4RvBWfB0","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4724803792340005&w=31cb02a5,3fc23ddc","DisplayUrl":"www.youtube.com\/watch?v=7NK4RvBWfB0","DateTime":"2012-02-15T16:28:00Z"},{"Title":"Basketball
+      with Jeremy Lin - YouTube","Description":"wooo jeremy lin! subscribe\/follow\/like
+      http:\/\/www.youtube.com\/miniachilles http:\/\/www.twitter.com\/miniachilles
+      http:\/\/www.facebook.com\/jasonchenmusic arden\/gerald! http:\/\/www ...","Url":"http:\/\/www.youtube.com\/watch?v=VkScBcg7wkk","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4509608753627931&w=e6357f6a,f16942d3","DisplayUrl":"www.youtube.com\/watch?v=VkScBcg7wkk","DateTime":"2012-02-11T00:07:00Z"},{"Title":"Jeremy
+      Lin: Basketball Player Extraordinaire, Pioneer | Hyphen magazine - Asian American
+      arts, culture, and politics","Description":"Yesterday Dana O''Neil wrote an
+      excellent ESPN piece about basketball extraordinaire Jeremy Lin, the star and
+      captain of Harvard''s basketball team. One...","Url":"http:\/\/www.hyphenmagazine.com\/blog\/2009\/12\/basketball-extraordinaire-jere.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=5036399367162838&w=d47353e2,b4da46ee","DisplayUrl":"www.hyphenmagazine.com\/blog\/2009\/12\/basketball-extraordinaire-jere...","DateTime":"2012-02-16T00:17:00Z"},{"Title":"Jeremy
+      Lin #17: The Jeremy Lin Basketball Academy","Description":"The game Saturday
+      night vs Sioux City is on Versus. Also, Jeremy has his own Basketball summer
+      camp: Jeremy Lin Basketball Academy Join Golden State Warriors guard and Harvard
+      grad Jeremy Lin for basketball instruction and fun at the 2011 ...","Url":"http:\/\/www.jeremylin.net\/2011\/03\/jeremy-lin-basketball-academy.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4563755401873816&w=4231c5c1,61d6c4a3","DisplayUrl":"www.jeremylin.net\/2011\/03\/jeremy-lin-basketball-academy.html","DateTime":"2012-02-09T21:02:00Z"},{"Title":"Jeremy
+      Lin: Asian Basketball Star Faces Racial Slurs - TIME","Description":"Jeremy
+      Lin has emerged as one of the country''s élite college basketball players. Why
+      does he still get mocked for being Asian?","Url":"http:\/\/www.time.com\/time\/magazine\/article\/0,9171,1953708,00.html","DisplayUrl":"www.time.com\/time\/magazine\/article\/0,9171,1953708,00.html","DateTime":"2012-02-16T13:49:00Z"},{"Title":"Jeremy
+      Lin Basketball Wallpaper - Streetball","Description":"Jeremy Lin aka Linsanity
+      basketball wallpaper pays tribute to Jeremy Lin''s Legendary play for the New
+      York Knicks. To download the Jeremy Lin Wallpapers, selec…","Url":"http:\/\/streetball.com\/photo\/albums\/jeremy-lin-basketball-wallpaper","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4526084247850103&w=7b597329,52bd8ea4","DisplayUrl":"streetball.com\/photo\/albums\/jeremy-lin-basketball-wallpaper","DateTime":"2012-02-16T15:01:00Z"},{"Title":"Jeremy
+      Lin Photos, Jeremy Lin Basketball Photos, NBA Framed Pictures, Images | NBA
+      Photo Store, Jeremy Lin Merchandise","Description":"Jeremy Lin Basketball Photos
+      at the official NBA Photo Store. We have the largest selection of NBA photos
+      available, including our huge selection of Jeremy Lin Basketball Photos. Shop
+      Official Jeremy Lin Basketball Photos and Jeremy Lin ...","Url":"http:\/\/photostore.nba.com\/New-York-Knicks-Jeremy-Lin-Basketball-Photos-_-1688379231_PG.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4756934443926211&w=95eba24b,189c73c3","DisplayUrl":"photostore.nba.com\/New-York-Knicks-Jeremy-Lin-Basketball-Photos...","DateTime":"2012-02-13T16:05:00Z"},{"Title":"Jeremy
+      Lin Inspires Basketball Mania－Yahoo!奇摩新聞","Description":"觀看 Yahoo!奇摩新聞上的影音新聞「Jeremy
+      Lin Inspires Basketball Mania」。 ... 立即播放 廣告剩餘秒數 Raw Video: Ahmadinejad inspects
+      Nuclear Plant 2012年2月16日 上午1:43 AP 0:55 | 瀏覽 147 次 Iranian President Mahmoud
+      Ahmadinejad ...","Url":"http:\/\/tw.news.yahoo.com\/video\/world-22186928\/title-28263700.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+basketball&d=4742881304969498&w=f375867e,9e495e47","DisplayUrl":"tw.news.yahoo.com\/video\/world-22186928\/title-28263700.html","DateTime":"2012-02-16T07:34:00Z"},{"Title":"Jeremy
+      Lin Basketball Academy","Description":"Jeremy Lin Basketball Academy Join Golden
+      State Warriors guard and Harvard grad Jeremy Lin for basketball instruction
+      and fun at the 2011 Jeremy Lin Basketball Academy. Date: June 27 – July 1, 2011
+      (Mon-Fri) Location: Palo Alto High ...","Url":"http:\/\/www.jlin7.com\/camp\/jlinpaloalto_info.pdf","DisplayUrl":"www.jlin7.com\/camp\/jlinpaloalto_info.pdf","DateTime":"2012-02-15T11:57:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:53:00 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Jeremy%20Lin%22%20quidditch&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6582'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:53:00 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Jeremy Lin\"
+      quidditch"},"Web":{"Total":1250,"Offset":0,"Results":[{"Title":"Quidditch: America''s
+      Newest Sensation - Photos - SI.com","Description":"Quidditch: America''s Newest
+      Sensation ... Photo GalleryThe Jeremy Lin Fan Club Posted: 02-14-201219 Photos
+      Photo GalleryAthletes Getting Married Posted: 02-14-201239 Photos Photo GalleryU.S.
+      Olympic Table Tennis ...","Url":"http:\/\/sportsillustrated.cnn.com\/multimedia\/photo_gallery\/1107\/quidditch.college.campus\/content.6.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4917050820267382&w=4f0efea0,cf69bd60","DisplayUrl":"sportsillustrated.cnn.com\/multimedia\/photo_gallery\/1107\/quidditch...","DateTime":"2012-02-16T03:05:00Z"},{"Title":"Kansas
+      Quidditch Team Ranked 2nd in United States - Yahoo! Sports","Description":"A
+      Quidditch team in Kansas is ranked 2 nd in the country for a competitive game
+      that started in the famous Harry Potter series. It''s known as Quidditch but
+      Muggles (non ... NBA team''s big regret: Waiving Jeremy Lin NBA team''s big
+      regret: Waiving ...","Url":"http:\/\/sports.yahoo.com\/top\/news?slug=ycn-10325615","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4869243535558666&w=1e902bcd,f0141067","DisplayUrl":"sports.yahoo.com\/top\/news?slug=ycn-10325615","DateTime":"2012-02-15T16:43:00Z"},{"Title":"Middlebury
+      Celebrates Their Fifth Quidditch World Cup Win - Yahoo! Sports","Description":"Since
+      the introduction of Quidditch in 2007, Middlebury has competed in and won every
+      World Cup competition. They will certainly plan to compete next year, too in
+      hopes ... NBA team''s big regret: Waiving Jeremy Lin NBA team''s big regret
+      ...","Url":"http:\/\/sports.yahoo.com\/top\/news?slug=ycn-10481457","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4838422851814951&w=c5fb1967,c82f7a4f","DisplayUrl":"sports.yahoo.com\/top\/news?slug=ycn-10481457","DateTime":"2012-02-15T18:48:00Z"},{"Title":"Isn’t
+      it Quidditch? Son of Parks Commish Reenacts Rolling Caper | The New York Observer","Description":"“The
+      real Quidditch games are better,” said Parks Commissioner Adrian Benepe, who
+      watched the Quidditch World Cup his son organized at Middlebury last year. ...
+      Results: This is What Jeremy Lin and Linsanity Has Done to the Stock Market
+      Volcker Non-Shocker: Entire Wall Street Lobby Hates ''The Rule'' ...","Url":"http:\/\/www.observer.com\/2009\/daily-transom\/isnt-it-quidditch-son-parks-commish-reenacts-rolling-caper","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4564726070641311&w=fdac34ee,74c3994","DisplayUrl":"www.observer.com\/2009\/daily-transom\/isnt-it-quidditch-son-parks...","DateTime":"2012-02-14T21:04:00Z"},{"Title":"Quidditch:
+      One Of The Fastest-Growing College Sports","Description":"Quidditch: One Of
+      The Fastest-Growing College Sports ... Boston Herald: The university, which
+      recently cut hundreds of jobs and such perks as hot breakfast at ... Jeremy
+      Lin Hits Game-Winning ...","Url":"http:\/\/www.huffingtonpost.com\/2009\/11\/20\/quidditch-one-of-the-fast_n_365104.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4945895815513768&w=5471687b,63a2a180","DisplayUrl":"www.huffingtonpost.com\/2009\/11\/20\/quidditch-one-of-the-fast_n...","DateTime":"2012-02-16T11:48:00Z"},{"Title":"Jeremy
+      Lin (@DHaywood21) on Twitter","Description":"I would be nice at quidditch. I''d
+      be the best seeker in history. Catching that snitch every match!!! » DHaywood21
+      Jeremy Lin Lab practical was a KILLER!!! Thing should be arrested for multiple
+      counts of murder! » DHaywood21 Jeremy Lin @ @KyleGinsburg ...","Url":"http:\/\/twitter.com\/DHaywood21","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4928166189663615&w=9bfa27e3,e391672b","DisplayUrl":"twitter.com\/DHaywood21","DateTime":"2012-02-14T01:47:00Z"},{"Title":"Quidditch
+      World Cup Going Down On The West Side: Gothamist","Description":"Lin Your Face:
+      Jeremy Lin Impressed By Witty Linatics ... And though college students affiliated
+      with the International Quidditch Association insist they just want to do things
+      like \"bring magic to the communities,\" other say ...","Url":"http:\/\/gothamist.com\/2010\/11\/13\/quidditch_world_cup_going_down_on_t.php","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4510583714873389&w=627457a1,c2fc701f","DisplayUrl":"gothamist.com\/2010\/11\/13\/quidditch_world_cup_going_down_on_t.php","DateTime":"2012-02-12T13:51:00Z"},{"Title":"Quidditch:
+      Who Needs Steroids When You''ve Got Magic? - Speakeasy - WSJ","Description":"Quidditch
+      is the once-fictional sport made up by J.K. Rowling for her Harry Potter fantasy
+      series. But now there are tournaments, new rules and special brooms for ...
+      Jeremy Lin on His Fast Break to Fame, God, and Kobe Bryant 2. Jeremy Lin''s
+      Pop ...","Url":"http:\/\/blogs.wsj.com\/speakeasy\/2010\/10\/25\/quidditch-who-needs-steroids-when-youve-got-magic\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4603977763260750&w=addf2572,75d5145e","DisplayUrl":"blogs.wsj.com\/speakeasy\/2010\/10\/25\/quidditch-who-needs-steroids...","DateTime":"2012-02-12T12:20:00Z"},{"Title":"Quidditch:
+      America''s Newest Sensation - Photos - SI.com","Description":"Quidditch: America''s
+      Newest Sensation ... Most Recent: Photo GalleryWestminster Through the Years
+      Posted: 02-13-201230 Photos Photo GalleryWhitney ... Hot Topics: Phil Mickelson
+      Peter King: MMQB Jeremy Lin Anthony Davis Swimsuit","Url":"http:\/\/sportsillustrated.cnn.com\/multimedia\/photo_gallery\/1107\/quidditch.college.campus\/content.13.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4858660738829878&w=9663bef3,a0c04338","DisplayUrl":"sportsillustrated.cnn.com\/multimedia\/photo_gallery\/1107\/quidditch...","DateTime":"2012-02-14T01:26:00Z"},{"Title":"Muggles
+      Make Quidditch Their Own in Texas and Across the Country - Yahoo! Canada Sports","Description":"The
+      Texas Quidditch team held their first scrimmage this month and will have their
+      third Quidditch scrimmage on Sunday, October 24 th at 4pm. ... How did 28 teams
+      miss on Jeremy Lin? Browse MSG shares set record Browse Lin gets NBA honor","Url":"http:\/\/ca.sports.yahoo.com\/top\/news?slug=ycn-10254763","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22jeremy+lin%22+quidditch&d=4554890592716707&w=eb1e1576,25a6b839","DisplayUrl":"ca.sports.yahoo.com\/top\/news?slug=ycn-10254763","DateTime":"2012-02-16T06:29:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:53:00 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Michael%20Jordan%22%20football&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6197'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:53:01 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Michael
+      Jordan\" football"},"Web":{"Total":1080000,"Offset":0,"Results":[{"Title":"Which
+      football position did Michael Jordan play in high school","Description":"What
+      positions did Michael Jordan play? shooting guard and power forward i think.
+      What team did Michael Jordan play on when he was in high school? Laney High
+      School Why play high school football? For experience if you want to play college
+      ball ...","Url":"http:\/\/wiki.answers.com\/Q\/Which_football_position_did_Michael_Jordan_play_in_high_school","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4662685685449109&w=4a52b15f,659404","DisplayUrl":"wiki.answers.com\/Q\/Which_football_position_did_Michael_Jordan_play...","DateTime":"2012-02-17T21:46:00Z"},{"Title":"Michael
+      Jordan Football Profile - Trotwood-Madison 10-11 - MaxPreps","Description":"MaxPreps
+      - Michael Jordan Trotwood-Madison High School Profile for Football 10-11. Profile
+      for Michael Jordan during the Football 10-11 season. Find Photos, Articles,
+      Videos, Stats, about Michael ...","Url":"http:\/\/www.maxpreps.com\/athletes\/2H4BH057KEGFHKDq3mRUHw\/football-fall-10\/profile-michael-jordan.htm","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4663755124379956&w=dc9a7c11,8c0cf85d","DisplayUrl":"www.maxpreps.com\/...\/football-fall-10\/profile-michael-jordan.htm","DateTime":"2012-02-16T00:56:00Z"},{"Title":"michael
+      jordan football | eBay","Description":"eBay: michael jordan football ... Condition
+      New (8) Used (11) Not Specified (4) Choose more... Condition Price Please enter
+      a minimum and\/or maximum price before continuing. $ Enter minimum price to
+      $ Enter maximum price Submit price range","Url":"http:\/\/www.ebay.com\/sch\/i.html?_nkw=michael+jordan+football","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4843340591140132&w=4bc09584,bc203662","DisplayUrl":"www.ebay.com\/sch\/i.html?_nkw=michael+jordan+football","DateTime":"2012-02-12T07:01:00Z"},{"Title":"Michael
+      Jordan Football Profile - Chandler 09-10 - MaxPreps","Description":"MaxPreps
+      - Michael Jordan Chandler High School Profile for Football 09-10. Profile for
+      Michael Jordan during the Football 09-10 season. Find Photos, Articles, Videos,
+      Stats, about Michael Jordan!","Url":"http:\/\/www.maxpreps.com\/athletes\/4L6GoRWiQkO_fekI2a7rvw\/football-fall-09\/profile-michael-jordan.htm","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4977605558341282&w=99f6ce7c,bb953c65","DisplayUrl":"www.maxpreps.com\/...\/football-fall-09\/profile-michael-jordan.htm","DateTime":"2012-02-14T17:43:00Z"},{"Title":"Michael
+      Jordan Football Cleats | Eastbay.com","Description":"Shop Michael Jordan Football
+      Cleats at Eastbay.com ... Thank you for visiting Eastbay.com, if you need assistance
+      shopping our site, please call 800-826-2205. Click to skip to main content","Url":"http:\/\/www.eastbay.com\/_-_\/keyword-michael+jordan+football+cleats","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4552244901316773&w=cab92c4f,23569378","DisplayUrl":"www.eastbay.com\/_-_\/keyword-michael+jordan+football+cleats","DateTime":"2012-02-18T12:08:00Z"},{"Title":"Michael
+      Jordan (michaeljordan)''s Photos : Sports : Football | SmugMug","Description":"Michael
+      Jordan Master Photographer ... National Football League: NFL Draft 2010 The
+      NFL draft moves to primetime for the first time in 2010, with the ... Updated:
+      Apr 25, 2010 6:34pm PST","Url":"http:\/\/michaeljordan.smugmug.com\/Sports\/Football","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4973357832537446&w=d3e7dc14,33f77a5d","DisplayUrl":"michaeljordan.smugmug.com\/Sports\/Football","DateTime":"2012-02-14T18:34:00Z"},{"Title":"michael
+      jordan throws a football 65 yards - YouTube","Description":"Uploaded by TheEaglesfanindc
+      on Aug 25, 2011 the legend of michael jordan Category: Sports Tags: 08-26-2011_003753
+      License: Standard YouTube License. 1 likes, 0 dislikes.","Url":"http:\/\/www.youtube.com\/watch?v=8k_nWmFep5E","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4643289610913347&w=c83f6f18,b145cc58","DisplayUrl":"www.youtube.com\/watch?v=8k_nWmFep5E","DateTime":"2012-02-11T13:10:00Z"},{"Title":"Who''s
+      the Michael Jordan of football? - Yahoo! Answers","Description":"Best Answer:
+      I don''t think we have seen one just yet. But if i had to pick it''s Jerry Rice
+      hands down ... When you said Michael Jordan I was thinking the most over ...","Url":"http:\/\/answers.yahoo.com\/question\/index?qid=20111109105814AAFpYya","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4616789670104563&w=2bf3fb24,112dfc5","DisplayUrl":"answers.yahoo.com\/question\/index?qid=20111109105814AAFpYya","DateTime":"2012-01-30T01:50:00Z"},{"Title":"Michael
+      Jordan Football Cleats | Benton Football: Clothing, Shoes & Accessories","Description":"Does
+      Michael Jordan have a football cleats line? I’m trying to find out where I can
+      find some michael Jordan football cleats. My son loves Jordans and football.
+      yes here is a picture of one of his cleats","Url":"http:\/\/www.bentonfootball.com\/michael-jordan-football-cleats\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4835897407771159&w=ba493d08,3e11b267","DisplayUrl":"www.bentonfootball.com\/michael-jordan-football-cleats","DateTime":"2012-02-08T15:32:00Z"},{"Title":"Does
+      Michael Jordan have a football cleats line? - Football Equipment About Football
+      Information","Description":"Does Michael Jordan have a football cleats line?
+      I''m trying to find out where I can find some michael Jordan football cleats.
+      My son loves Jordans and football. yes here is a picture of one of his cleats
+      http:\/\/www.fabuloussavings.com... shows he does ...","Url":"http:\/\/www.nokiasugarbowl.com\/football_equipment\/football_cleats\/35356.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+football&d=4792741579194947&w=57c2234a,2789ab97","DisplayUrl":"www.nokiasugarbowl.com\/football_equipment\/football_cleats\/35356.html","DateTime":"2012-02-16T15:59:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:53:01 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Michael%20Jordan%22%20basketball&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '5806'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:53:01 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Michael
+      Jordan\" basketball"},"Web":{"Total":2010000,"Offset":0,"Results":[{"Title":"Michael
+      Jordan - Wikipedia, the free encyclopedia","Description":"Michael Jeffrey Jordan
+      (born February 17, 1963) is a former American professional basketball player,
+      active entrepreneur, and majority owner of the Charlotte Bobcats.","Url":"http:\/\/en.wikipedia.org\/wiki\/Michael_Jordan","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4536860329117956&w=2523f013,b25cc843","DisplayUrl":"en.wikipedia.org\/wiki\/Michael_Jordan","DateTime":"2012-02-16T02:37:00Z"},{"Title":"NBA
+      Video Highlights: Michael Jordan teaching basketball 【 Crossover 】","Description":"Michael
+      Jordan teaching basketball 【 Crossover 】 ... 你支持的NBA球隊 【可以選多於一隊】","Url":"http:\/\/allnbavideo.blogspot.com\/2011\/10\/michael-jordan-teaching-basketball.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4957359085454310&w=4d17ff32,8d232c38","DisplayUrl":"allnbavideo.blogspot.com\/...\/michael-jordan-teaching-basketball.html","DateTime":"2012-02-01T18:19:00Z"},{"Title":"Michael
+      Jordan Basketball Camp ''07 - YouTube","Description":"Michael Jordan Basketball
+      Camp. videographer and edit by Digital Dreams Video 424-603-9606 http:\/\/www.digitaldreamsvideo.biz","Url":"http:\/\/www.youtube.com\/watch?v=ttr-kSZRih4","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4778190237926500&w=ad875725,9e60bb5a","DisplayUrl":"www.youtube.com\/watch?v=ttr-kSZRih4","DateTime":"2012-02-18T03:02:00Z"},{"Title":"Michael
+      Jordan Basketball Tips 09 Conditioning and nutrition - YouTube","Description":"Michael
+      Jordan Basketball Tips 09 Conditioning and nutrition Planet Hoops-Your source
+      for Overseas Basketball and more: www.hoop-hype.net","Url":"http:\/\/www.youtube.com\/watch?v=BEHx-1xkuMI","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4833088507675812&w=43b809f0,3c8c38b","DisplayUrl":"www.youtube.com\/watch?v=BEHx-1xkuMI","DateTime":"2012-02-18T04:23:00Z"},{"Title":"Michael
+      Jordan of Basketball Training!!! JUMPSTART33.COM - Video","Description":"www.JumpStarthoops.com
+      Best Basketball Instructional DVD on the market. Learn what you need to know
+      to get to become an All-American!!!","Url":"http:\/\/www.metacafe.com\/watch\/2736831\/michael_jordan_of_basketball_training_jumpstart33_com\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4624185587926404&w=c8c81f7f,58819185","DisplayUrl":"www.metacafe.com\/watch\/2736831\/michael_jordan_of_basketball...","DateTime":"2012-02-16T13:39:00Z"},{"Title":"Michael
+      Jordan - Basketball Legend Compilation - Video","Description":"Michael Jordan,
+      the best known athlete in the world, is a leading scorer in the National Basketball
+      Association (NBA), who led the Chicago Bulls to many recent NBA ...","Url":"http:\/\/www.metacafe.com\/watch\/787812\/michael_jordan_basketball_legend_compilation\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4610703683815887&w=a416f6fa,84aecd6d","DisplayUrl":"www.metacafe.com\/watch\/787812\/michael_jordan_basketball_legend...","DateTime":"2012-02-18T04:05:00Z"},{"Title":"michael
+      jordan basketball | eBay","Description":"eBay: michael jordan basketball ...
+      Distance Please enter valid zipcode. Please select a valid popular city. Please
+      enter valid zipcode or select a valid popular city. Within Enter miles miles
+      of ZIP Enter Zip code","Url":"http:\/\/www.ebay.com\/sch\/Autographs-Original-\/51\/i.html?_nkw=michael+jordan+basketball","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4580930981593721&w=d62ea0e9,464b7f61","DisplayUrl":"www.ebay.com\/...\/51\/i.html?_nkw=michael+jordan+basketball","DateTime":"2012-02-16T20:11:00Z"},{"Title":"NBA.com:
+      Michael Jordan Summary","Description":"Michael Jordan By acclamation, Michael
+      Jordan is the greatest basketball player of all time. Although, a summary of
+      his basketball career and influence on the game inevitably fails to do it justice,
+      as a phenomenal athlete with a unique ...","Url":"http:\/\/www.nba.com\/history\/players\/jordan_summary.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4979765928919426&w=3e1ea2f2,b6c9eb7a","DisplayUrl":"www.nba.com\/history\/players\/jordan_summary.html","DateTime":"2012-02-17T20:46:00Z"},{"Title":"Michael
+      Jordan Basketball Star 2011 Profile,Bio,Images & Wallpapers | New Sports Stars","Description":"Basketball
+      might have been in his genes, but Michael Jordan had to work hard to develop
+      to his full potential. Being cut from the varsity basketball team in his first
+      year at high school might have drove him to become the best basketball player
+      in ...","Url":"http:\/\/bestsportsstar.blogspot.com\/2011\/08\/michael-jordan-basketball-star-2011.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4943713973242180&w=fd13a35f,4876ae79","DisplayUrl":"bestsportsstar.blogspot.com\/2011\/08\/michael-jordan-basketball-star...","DateTime":"2011-09-27T21:43:00Z"},{"Title":"Top
+      10 Michael Jordan Quotes. Inspirational Michael Jordan Basketball Quotes.","Description":"These
+      amazing Michael Jordan Quotes are sure to inspire & motivate you. Inspirational
+      basketball quotes from the NBA legend himself. Top 10 Michael Jordan quotes...","Url":"http:\/\/www.inspirational-quotes-and-quotations.com\/michael-jordan-quotes.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+basketball&d=4696323861250795&w=693494a4,92cb3453","DisplayUrl":"www.inspirational-quotes-and-quotations.com\/michael-jordan-quotes.html","DateTime":"2012-02-15T12:40:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:53:01 GMT
+- request:
+    method: get
+    uri: http://api.search.live.net/json.aspx?AppId=23E4140AFCF092CA5026DCAE66D7FB42023FE375&query=%22Michael%20Jordan%22%20quidditch&sources=Web
+    body: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Length:
+      - '6578'
+      Content-Type:
+      - application/json; charset=utf-8
+      X-Content-Type-Options:
+      - nosniff
+      Date:
+      - Mon, 20 Feb 2012 16:53:02 GMT
+      Connection:
+      - keep-alive
+    body: ! '{"SearchResponse":{"Version":"2.2","Query":{"SearchTerms":"\"Michael
+      Jordan\" quidditch"},"Web":{"Total":19200,"Offset":0,"Results":[{"Title":"Classic
+      YouTube: Richard Cockerill v Norm Hewitt, Michael Jordan, Ricky Ponting and
+      Quidditch | Sport | guardian.co.uk","Description":"1) We''ve been waiting for
+      someone to upload this clip for years. Making his first start in a Test match
+      for England, Leicester''s Richard Cockerill decides to go eyeball-to-eyeball
+      with All Black Norm Hewitt. Possibly the best response to the haka ever. Or
+      the most stupid. England lost 25-8. 2) One","Url":"http:\/\/www.guardian.co.uk\/sport\/blog\/2008\/dec\/04\/classic-youtube-haka-torres-quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4942305221738584&w=a171fac8,af50e1be","DisplayUrl":"www.guardian.co.uk\/...\/dec\/04\/classic-youtube-haka-torres-quidditch","DateTime":"2012-02-12T15:48:00Z"},{"Title":"Quidditch
+      | Cracked.com","Description":"This in turn gives it the potential to be a badass
+      fusion version of soccer and basketball, if Michael Jordan and Pele were able
+      to fly and were freaking wizards. Popularity Quidditch is the most popular sport
+      in the Harry Potter universe, where it is ...","Url":"http:\/\/www.cracked.com\/funny-6906-quidditch\/","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4519074860827606&w=9f78dcc0,c5c25e0c","DisplayUrl":"www.cracked.com\/funny-6906-quidditch","DateTime":"2012-02-16T10:49:00Z"},{"Title":"Stony
+      Brook Quidditch | Facebook","Description":"Stony Brook Quidditch is on Facebook.
+      Join Facebook to connect with Stony Brook Quidditch and others you may know.
+      Facebook gives people the power to share and makes ... Michael Jordan","Url":"http:\/\/www.facebook.com\/people\/Stony-Brook-Quidditch\/100001907956509","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4709234532681214&w=4c047864,d2614ed0","DisplayUrl":"www.facebook.com\/people\/Stony-Brook-Quidditch\/100001907956509","DateTime":"2012-02-16T13:21:00Z"},{"Title":"Images,
+      photos and videos tagged with quidditch on we heart it \/ visual bookmark","Description":"Images,
+      videos, photos tagged with quidditch on we heart it \/ visual bookmark ... Michael
+      Jordan 4 days ago save this image to your heart Weasley is our King by *Gold-Seven
+      harry potter hp ron ron weasley quidditch 11 hearts","Url":"http:\/\/weheartit.com\/tag\/quidditch","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4587210226600373&w=2158d39e,ae762b01","DisplayUrl":"weheartit.com\/tag\/quidditch","DateTime":"2012-02-12T23:35:00Z"},{"Title":"ESPN
+      Classic - Quidditch - YouTube","Description":"Quidditch World Cup V November
+      12 & 13 Randall''s Island, NYC WorldCupQuidditch.com Arthur Warburton is Jonathan
+      Desley, Scott Eckert, Katie Haller, Lucas Hazlett ... 5:10 Add to 60 Minutes
+      on ESPN Classic Michael Jordan 1984 ... by r23o 37,700 views","Url":"http:\/\/www.youtube.com\/watch?v=ozH7561Ey68","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=5003212153882705&w=696d09fe,a003f32","DisplayUrl":"www.youtube.com\/watch?v=ozH7561Ey68","DateTime":"2012-02-13T18:42:00Z"},{"Title":"Alexie
+      Michael Jordan | Facebook","Description":"Alexie Michael Jordan be sailin''
+      on Ye Olde Facebook Join Facebook to connect with Alexie Michael Jordan and
+      others you may know. Facebook be makin'' social piratin'' great ... It''s Quidditch
+      season. You know how it is., Act Your Age, Not Your ...","Url":"http:\/\/en-pi.facebook.com\/people\/Alexie-Michael-Jordan\/100000056323301","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4868792566221335&w=ab1dbe3c,31a80985","DisplayUrl":"en-pi.facebook.com\/people\/Alexie-Michael-Jordan\/100000056323301","DateTime":"2012-02-14T23:07:00Z"},{"Title":"Harry
+      Potter - Coupe du Monde de Quidditch (PS2) : avis de consommateurs, comparateur
+      de prix et achat en ligne","Description":"Harry Potter - Coupe du Monde de Quidditch
+      (PS2) Sport & Simulation - Course - Sortie : 2003 Plus Lire les 6 avis | Rédigez
+      un avis | Poser une question| ... NBA 2K12 - édition Michael Jordan (PS2) Sport
+      & Simulation - Sortie : 2011 Ce produit ...","Url":"http:\/\/www.ciao.fr\/Harry_Potter_Coupe_du_Monde_de_Quidditch_PS2__519946","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4928681584362532&w=aca0e9d2,bd085181","DisplayUrl":"www.ciao.fr\/Harry_Potter_Coupe_du_Monde_de_Quidditch_PS2__519946","DateTime":"2012-02-06T11:09:00Z"},{"Title":"The
+      Wheatley Chronicle: Michael Jordan the Athlete, the Commodity and the Legacy.","Description":"When
+      future generations look back at the Michael Jordan legacy, they will realize
+      that his endeavors as a professional athlete changed the manner of basketball
+      ... College Quidditch: Sport vs. Spectacle September (5) Electronic Purée","Url":"http:\/\/thewheatleychronicle.blogspot.com\/2009\/11\/michael-jordan-athlete-commodity-and.html","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4794219047159778&w=898da5a0,4081a44c","DisplayUrl":"thewheatleychronicle.blogspot.com\/2009\/11\/michael-jordan-athlete...","DateTime":"2011-11-18T13:00:00Z"},{"Title":"LSU
+      Quidditch rises in IQA rankings @ TigerDroppings.com","Description":"crimson
+      crazy Alabama Fan Looking over your shoulder. Member since Oct 2008 18177 posts
+      re: LSU Quidditch rises in IQA rankings (Posted on 8\/7\/11 at 3:32 p.m. to
+      Sao) ... How North Carolina recruited Michael Jordan WVU and Big East reach
+      ...","Url":"http:\/\/www.tigerdroppings.com\/rant\/p\/27545060\/LSU-Quidditch-rises-in-IQA-rankings.aspx","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4877760452690501&w=61049810,e8817abe","DisplayUrl":"www.tigerdroppings.com\/rant\/p\/27545060\/LSU-Quidditch-rises-in-IQA...","DateTime":"2012-02-13T06:34:00Z"},{"Title":"Harry
+      Potter TCG Quidditch Cup Swarm Card 73 Wizards of the Coast 2001 Lot 1253SC","Description":"Quidditch
+      Cup Wizards of the Coast 2001 I Just Found A Few Odd Card Packs, And Even Though
+      I Do Not Have Complete Sets Of These Cards, I Will Be Listing These Cards ...
+      Space Jam Album Stickers Featuring Michael Jordan $0.25 Feb-14 ...","Url":"http:\/\/www.onlineauction.com\/index.php?page=auction:view_item&auction_id=1116142","CacheUrl":"http:\/\/cc.bingj.com\/cache.aspx?q=%22michael+jordan%22+quidditch&d=4530920382989614&w=a03e6e28,4e48c765","DisplayUrl":"www.onlineauction.com\/index.php?page=auction:view_item&auction_id=...","DateTime":"2012-02-15T01:53:00Z"}]}}}'
+    http_version: 
+  recorded_at: Mon, 20 Feb 2012 16:53:02 GMT
+recorded_with: VCR 2.0.0.rc1
